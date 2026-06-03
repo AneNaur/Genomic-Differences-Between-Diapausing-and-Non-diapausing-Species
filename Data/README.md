@@ -1,4 +1,4 @@
-The data include a nexus tree with all species in OthoMaM as well as fasta files of alignments of the following genes (all downloaded from the OrthoMaM database)
+The data include a nexus tree with all species available in OrthoMaM (*omm_v12_190tax_CDS_tree.nexus*) as well as fasta files of alignments of the following genes (all downloaded from the OrthoMaM database)
 
 
 ### control0
