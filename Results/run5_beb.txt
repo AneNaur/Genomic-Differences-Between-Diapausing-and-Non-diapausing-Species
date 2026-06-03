@@ -1,0 +1,125 @@
+---NANOG---
+Null lnL        -28107.864012
+Alternative lnL -28107.864012
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+No beb to report
+
+-----------------------------------------------
+
+---POU5F1---
+Null lnL        -25491.479276
+Alternative lnL -25492.271503
+2delta_lnL      -1.58445
+NON-SIGNIFICANT
+No beb to report
+
+-----------------------------------------------
+
+---SOX2---
+Null lnL        -9569.816113
+Alternative lnL -9569.816446
+2delta_lnL      -0.00067
+NON-SIGNIFICANT
+No beb to report
+
+-----------------------------------------------
+
+---IGF1---
+Null lnL        -3095.568851
+Alternative lnL -3094.952858
+2delta_lnL      1.23199
+NON-SIGNIFICANT
+No beb to report
+
+-----------------------------------------------
+
+---IGF2---
+Null lnL        -3331.774228
+Alternative lnL -3331.774211
+2delta_lnL      0.00003
+NON-SIGNIFICANT
+No beb to report
+
+-----------------------------------------------
+
+---IGF1R---
+Null lnL        -24944.767475
+Alternative lnL -24945.161914
+2delta_lnL      -0.78888
+NON-SIGNIFICANT
+No beb to report
+
+-----------------------------------------------
+
+---IGF2R---
+Null lnL        -68089.146605
+Alternative lnL -68089.146603
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+No beb to report
+
+-----------------------------------------------
+
+---IGFBP2---
+Null lnL        -6051.453893
+Alternative lnL -6051.453893
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+No beb to report
+
+-----------------------------------------------
+
+---IGFBP4---
+Null lnL        -4295.278253
+Alternative lnL -4295.278252
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+No beb to report
+
+-----------------------------------------------
+
+---IGFBP5---
+Null lnL        -4860.703791
+Alternative lnL -4860.703792
+2delta_lnL      -0.00000
+NON-SIGNIFICANT
+No beb to report
+
+-----------------------------------------------
+
+---PAPPA---
+Null lnL        -31554.070554
+Alternative lnL -31554.070562
+2delta_lnL      -0.00002
+NON-SIGNIFICANT
+No beb to report
+
+-----------------------------------------------
+
+---PAPPA2---
+Null lnL        -44826.216593
+Alternative lnL -44826.216593
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+No beb to report
+
+-----------------------------------------------
+
+---STC1---
+Null lnL        -3791.667359
+Alternative lnL -3791.667334
+2delta_lnL      0.00005
+NON-SIGNIFICANT
+No beb to report
+
+-----------------------------------------------
+
+---STC2---
+Null lnL        -8104.030863
+Alternative lnL -8104.030863
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+No beb to report
+
+-----------------------------------------------

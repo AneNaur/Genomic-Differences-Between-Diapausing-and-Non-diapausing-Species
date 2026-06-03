@@ -1,0 +1,26 @@
+---NANOG---
+Null lnL        -27413.031578
+Alternative lnL -27413.031578
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+No beb to report
+
+-----------------------------------------------
+
+---POU5F1---
+Null lnL        -24959.731478
+Alternative lnL -24960.712408
+2delta_lnL      -1.96186
+NON-SIGNIFICANT
+No beb to report
+
+-----------------------------------------------
+
+---SOX2---
+Null lnL        -9343.4689
+Alternative lnL -9343.468903
+2delta_lnL      -0.00001
+NON-SIGNIFICANT
+Np beb to report
+
+-----------------------------------------------

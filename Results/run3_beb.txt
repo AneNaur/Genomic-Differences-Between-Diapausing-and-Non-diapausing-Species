@@ -1,0 +1,72 @@
+---NANOG---
+Null lnL        -27413.031578
+Alternative lnL -27413.031578
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+No beb to report
+
+-----------------------------------------------
+
+---POU5F1---
+Null lnL        -24959.731478
+Alternative lnL -24960.712408
+2delta_lnL      -1.96186
+NON-SIGNIFICANT
+No beb to report
+
+-----------------------------------------------
+
+---SOX2---
+Null lnL        -9343.4689
+Alternative lnL -9343.468903
+2delta_lnL      -0.00001
+NON-SIGNIFICANT
+Np beb to report
+
+-----------------------------------------------
+
+---IGF1R---
+Null lnL        nan
+Alternative lnL nan
+2delta_lnL      nan
+NON-SIGNIFICANT
+No beb to report
+
+-----------------------------------------------
+
+---IGF2R---
+Null lnL        nan
+Alternative lnL nan
+2delta_lnL      nan
+NON-SIGNIFICANT
+No beb to report
+
+-----------------------------------------------
+
+---IGFBP4---
+Null lnL        nan
+Alternative lnL -12633.556035
+2delta_lnL      nan
+NON-SIGNIFICANT
+No beb to report
+
+-----------------------------------------------
+
+---IGFBP5---
+Null lnL        -13261.834551
+Alternative lnL -13261.834551
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+No beb to report
+
+-----------------------------------------------
+
+---PAPPA2---
+Null lnL        nan
+Alternative lnL nan
+2delta_lnL      nan
+NON-SIGNIFICANT
+No beb to report
+
+
+-----------------------------------------------
