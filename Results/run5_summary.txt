@@ -1,0 +1,593 @@
+Gene	NANOG
+Number of Species       166
+Alignment length (Number of codons)     419
+Codon model     F3x4
+
+---Branch-site alternative---
+3.77493
+MLEs    of      dN/dS   (w)     for     site_classes    (K=4)
+site_class      0       1       2a      2b
+proportion      0.49002 0.50561 0.00215 0.00222
+background_w    0.16655 1.00000 0.16655 1.00000
+foreground_w    0.16655 1.00000 1.00000 1.00000
+lnL     -28107.86401
+
+---Branch-site null---
+3.77494
+MLEs    of      dN/dS   (w)     for     site_classes    (K=4)
+site_class      0       1       2a      2b
+proportion      0.49002 0.50561 0.00215 0.00222
+background_w    0.16655 1.00000 0.16655 1.00000
+foreground_w    0.16655 1.00000 1.00000 1.00000
+lnL     -28107.86401
+
+*branch-site model test*
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+
+---Branch alternative---
+3.62752
+background_w    0.40443
+foreground_w    0.31940
+lnL     -28666.29962
+
+---Branch null---
+3.62723
+omega   0.39908
+lnL     -28667.96979
+
+*branch model test*
+2delta_lnL      3.34035
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	POU5F1
+Number of Species       185
+Alignment length (Number of codons)     376
+Codon model     F3x4
+
+---Branch-site alternative---
+3.33257
+MLEs    of      dN/dS   (w)     for     site_classes    (K=4)
+site_class      0       1       2a      2b
+proportion      0.86322 0.11247 0.02151 0.00280
+background_w    0.08587 1.00000 0.08587 1.00000
+foreground_w    0.08587 1.00000 1.00000 1.00000
+lnL     -25492.27150
+
+---Branch-site null---
+3.33267
+MLEs    of      dN/dS   (w)     for     site_classes    (K=4)
+site_class      0       1       2a      2b
+proportion      0.86324 0.11250 0.02146 0.00280
+background_w    0.08587 1.00000 0.08587 1.00000
+foreground_w    0.08587 1.00000 1.00000 1.00000
+lnL     -25491.47928
+
+*branch-site model test*
+2delta_lnL      -1.58445
+NON-SIGNIFICANT
+
+---Branch alternative---
+3.22731
+background_w    0.12482
+foreground_w    0.10562
+lnL     -25881.11826
+
+---Branch null---
+3.22610
+omega   0.12365
+lnL     -25881.00801
+
+*branch model test*
+2delta_lnL      -0.22051
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	SOX2
+Number of Species       176
+Alignment length (Number of codons)     328
+Codon model     F3x4
+
+---Branch-site alternative---
+3.87189
+MLEs    of      dN/dS   (w)     for     site_classes    (K=4)
+site_class      0       1       2a      2b
+proportion      0.98934 0.01065 0.00000 0.00000
+background_w    0.01112 1.00000 0.01112 1.00000
+foreground_w    0.01112 1.00000 1.00000 1.00000
+lnL     -9569.81645
+
+---Branch-site null---
+3.86990
+MLEs    of      dN/dS   (w)     for     site_classes    (K=4)
+site_class      0       1       2a      2b
+proportion      0.98932 0.01068 0.00000 0.00000
+background_w    0.01112 1.00000 0.01112 1.00000
+foreground_w    0.01112 1.00000 1.00000 1.00000
+lnL     -9569.81611
+
+*branch-site model test*
+2delta_lnL      -0.00067
+NON-SIGNIFICANT
+
+---Branch alternative---
+3.90018
+background_w    0.01315
+foreground_w    0.00690
+lnL     -9604.14037
+
+---Branch null---
+3.89507
+omega   0.01288
+lnL     -9605.84937
+
+*branch model test*
+2delta_lnL      3.41799
+NON-SIGNIFICANT
+
+-----------------------------------------------
+Gene    IGF1
+Number of Species       44
+Alignment length (Number of codons)     184
+Codon model     F3x4
+
+---Branch-site alternative---
+kappa   3.10314
+site_class      0       1       2a      2b
+proportion      0.89054 0.09760 0.01069 0.00117
+background_w    0.05336 1.00000 0.05336 1.00000
+foreground_w    0.05336 1.00000 2.59295 2.59295
+lnL     -3094.95286
+
+---Branch-site null---
+kappa   3.09701
+site_class      0       1       2a      2b
+proportion      0.88320 0.09814 0.01679 0.00187
+background_w    0.05313 1.00000 0.05313 1.00000
+foreground_w    0.05313 1.00000 1.00000 1.00000
+lnL     -3095.56885
+
+*branch-site model test*
+2delta_lnL      1.23199
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa   2.96748
+background_w    0.11775
+foreground_w    0.07633
+lnL     -3162.87482
+
+---Branch null---
+kappa   2.97422
+omega   0.11180
+lnL     -3163.71813
+
+*branch model test*
+2delta_lnL      1.68661
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene    IGF2
+Number of Species       38
+Alignment length (Number of codons)     192
+Codon model     F3x4
+
+---Branch-site alternative---
+kappa   3.47663
+site_class      0       1       2a      2b
+proportion      0.69150 0.30850 0.00000 0.00000
+background_w    0.05324 1.00000 0.05324 1.00000
+foreground_w    0.05324 1.00000 1.00000 1.00000
+lnL     -3331.77421
+
+---Branch-site null---
+kappa   3.47660
+site_class      0       1       2a      2b
+proportion      0.69149 0.30850 0.00000 0.00000
+background_w    0.05324 1.00000 0.05324 1.00000
+foreground_w    0.05324 1.00000 1.00000 1.00000
+lnL     -3331.77423
+
+*branch-site model test*
+2delta_lnL      0.00003
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa   3.25907
+background_w    0.19497
+foreground_w    0.22352
+lnL     -3416.83050
+
+---Branch null---
+kappa   3.25755
+omega   0.19791
+lnL     -3416.92634
+
+*branch model test*
+2delta_lnL      0.19167
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	IGF1R
+Number of Species       41
+Alignment length (Number of codons)     1407
+Codon model     F3x4
+
+---Branch-site alternative---
+kappa   3.24393
+site_class      0       1       2a      2b
+proportion      0.97974 0.02026 0.00000 0.00000
+background_w    0.01889 1.00000 0.01889 1.00000
+foreground_w    0.01889 1.00000 20.19063        20.19063
+lnL     -24945.16191
+
+---Branch-site null---
+kappa   3.24290
+site_class      0       1       2a      2b
+proportion      0.97877 0.02000 0.00121 0.00002
+background_w    0.01882 1.00000 0.01882 1.00000
+foreground_w    0.01882 1.00000 1.00000 1.00000
+lnL     -24944.76748
+
+*branch-site model test*
+2delta_lnL      -0.78888
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa   3.12115
+background_w    0.02577
+foreground_w    0.01820
+lnL     -25053.72282
+
+---Branch null---
+kappa   3.12651
+omega   0.02484
+lnL     -25055.86486
+
+*branch model test*
+2delta_lnL      4.28409
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene    IGF2R
+Number of Species       42
+Alignment length (Number of codons)     2659
+Codon model     F3x4
+
+---Branch-site alternative---
+kappa   3.07788
+site_class      0       1       2a      2b
+proportion      0.84344 0.14330 0.01134 0.00193
+background_w    0.07616 1.00000 0.07616 1.00000
+foreground_w    0.07616 1.00000 1.00000 1.00000
+lnL     -68089.14660
+
+---Branch-site null---
+kappa   3.07786
+site_class      0       1       2a      2b
+proportion      0.84344 0.14330 0.01134 0.00193
+background_w    0.07616 1.00000 0.07616 1.00000
+foreground_w    0.07616 1.00000 1.00000 1.00000
+lnL     -68089.14661
+
+*branch-site model test*
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa   2.80194
+background_w    0.12863
+foreground_w    0.10878
+lnL     -69119.73257
+
+---Branch null---
+kappa   2.80163
+omega   0.12550
+lnL     -69123.54027
+
+*branch model test*
+2delta_lnL      7.61540
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene    IGFBP2
+Number of Species       41
+Alignment length (Number of codons)     339
+Codon model     F3x4
+
+---Branch-site alternative---
+kappa   4.71319
+site_class      0       1       2a      2b
+proportion      0.91039 0.06732 0.02076 0.00153
+background_w    0.05302 1.00000 0.05302 1.00000
+foreground_w    0.05302 1.00000 1.00000 1.00000
+lnL     -6051.45389
+
+---Branch-site null---
+kappa   4.71318
+site_class      0       1       2a      2b
+proportion      0.91039 0.06732 0.02076 0.00153
+background_w    0.05302 1.00000 0.05302 1.00000
+foreground_w    0.05302 1.00000 1.00000 1.00000
+lnL     -6051.45389
+
+*branch-site model test*
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa   4.63396
+background_w    0.07519
+foreground_w    0.07801
+lnL     -6105.51315
+
+---Branch null---
+kappa   4.63357
+omega   0.07555
+lnL     -6105.52563
+
+*branch model test*
+2delta_lnL      0.02496
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene    IGFBP4
+Number of Species       45
+Alignment length (Number of codons)     266
+Codon model     F3x4
+
+---Branch-site alternative---
+kappa   5.94322
+site_class      0       1       2a      2b
+proportion      0.95443 0.04557 0.00000 0.00000
+background_w    0.03724 1.00000 0.03724 1.00000
+foreground_w    0.03724 1.00000 1.00000 1.00000
+lnL     -4295.27825
+
+---Branch-site null---
+kappa   5.94411
+site_class      0       1       2a      2b
+proportion      0.95442 0.04558 0.00000 0.00000
+background_w    0.03724 1.00000 0.03724 1.00000
+foreground_w    0.03724 1.00000 1.00000 1.00000
+lnL     -4295.27825
+
+*branch-site model test*
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa   5.78165
+background_w    0.05987
+foreground_w    0.02863
+lnL     -4346.01813
+
+---Branch null---
+kappa   5.79118
+omega   0.05516
+lnL     -4348.58086
+
+*branch model test*
+2delta_lnL      5.12546
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	IGFBP5
+Number of Species       45
+Alignment length (Number of codons)     276
+Codon model     F3x4
+
+---Branch-site alternative---
+kappa   3.68767
+site_class      0       1       2a      2b
+proportion      0.79600 0.04161 0.15433 0.00807
+background_w    0.02446 1.00000 0.02446 1.00000
+foreground_w    0.02446 1.00000 1.00000 1.00000
+lnL     -4860.70379
+
+---Branch-site null---
+kappa   3.68767
+site_class      0       1       2a      2b
+proportion      0.79600 0.04161 0.15433 0.00807
+background_w    0.02446 1.00000 0.02446 1.00000
+foreground_w    0.02446 1.00000 1.00000 1.00000
+lnL     -4860.70379
+
+*branch-site model test*
+2delta_lnL      -0.00000
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa   3.50306
+background_w    0.03809
+foreground_w    0.10357
+lnL     -4903.87509
+
+---Branch null---
+kappa   3.54933
+omega   0.04975
+lnL     -4915.98740
+
+*branch model test*
+2delta_lnL      24.22461
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene    PAPPA
+Number of Species       42
+Alignment length (Number of codons)     1547
+Codon model     F3x4
+
+---Branch-site alternative---
+kappa   3.53576
+site_class      0       1       2a      2b
+proportion      0.89506 0.09229 0.01146 0.00118
+background_w    0.05109 1.00000 0.05109 1.00000
+foreground_w    0.05109 1.00000 1.00000 1.00000
+lnL     -31554.07056
+
+---Branch-site null---
+kappa   3.53574
+site_class      0       1       2a      2b
+proportion      0.89505 0.09231 0.01146 0.00118
+background_w    0.05110 1.00000 0.05110 1.00000
+foreground_w    0.05110 1.00000 1.00000 1.00000
+lnL     -31554.07055
+
+*branch-site model test*
+2delta_lnL      -0.00002
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa   3.24564
+background_w    0.09483
+foreground_w    0.08968
+lnL     -32004.39505
+
+---Branch null---
+kappa   3.24582
+omega   0.09404
+lnL     -32004.56881
+
+*branch model test*
+2delta_lnL      0.34753
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene 	PAPPA2
+Number of Species       42
+Alignment length (Number of codons)     1814
+Codon model     F3x4
+
+---Branch-site alternative---
+kappa   3.87176
+site_class      0       1       2a      2b
+proportion      0.65588 0.26553 0.05594 0.02265
+background_w    0.08719 1.00000 0.08719 1.00000
+foreground_w    0.08719 1.00000 1.00000 1.00000
+lnL     -44826.21659
+
+---Branch-site null---
+kappa   3.87176
+site_class      0       1       2a      2b
+proportion      0.65588 0.26553 0.05594 0.02265
+background_w    0.08719 1.00000 0.08719 1.00000
+foreground_w    0.08719 1.00000 1.00000 1.00000
+lnL     -44826.21659
+
+*branch-site model test*
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa   3.49275
+background_w    0.24470
+foreground_w    0.20545
+lnL     -45670.58941
+
+---Branch null---
+kappa   3.48437
+omega   0.23799
+lnL     -45673.89920
+
+*branch model test*
+2delta_lnL      6.61958
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene    STC1
+Number of Species       46
+Alignment length (Number of codons)     250
+Codon model     F3x4
+
+---Branch-site alternative---
+kappa   3.60599
+site_class      0       1       2a      2b
+proportion      0.94213 0.05787 0.00000 0.00000
+background_w    0.04117 1.00000 0.04117 1.00000
+foreground_w    0.04117 1.00000 1.00000 1.00000
+lnL     -3791.66733
+
+---Branch-site null---
+kappa   3.60600
+site_class      0       1       2a      2b
+proportion      0.94213 0.05787 0.00000 0.00000
+background_w    0.04117 1.00000 0.04117 1.00000
+foreground_w    0.04117 1.00000 1.00000 1.00000
+lnL     -3791.66736
+
+*branch-site model test*
+2delta_lnL      0.00005
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa   3.51073
+background_w    0.07246
+foreground_w    0.05366
+lnL     -3821.58128
+
+---Branch null---
+kappa   3.51032
+omega   0.06905
+lnL     -3822.00469
+
+*branch model test*
+2delta_lnL      0.84682
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene    STC2
+Number of Species       46
+Alignment length (Number of codons)     315
+Codon model     F3x4
+
+---Branch-site alternative---
+kappa   3.98206
+site_class      0       1       2a      2b
+proportion      0.81271 0.12753 0.05165 0.00810
+background_w    0.07996 1.00000 0.07996 1.00000
+foreground_w    0.07996 1.00000 1.00000 1.00000
+lnL     -8104.03086
+
+---Branch-site null---
+kappa   3.98205
+site_class      0       1       2a      2b
+proportion      0.81271 0.12753 0.05165 0.00811
+background_w    0.07996 1.00000 0.07996 1.00000
+foreground_w    0.07996 1.00000 1.00000 1.00000
+lnL     -8104.03086
+
+*branch-site model test*
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa   3.64010
+background_w    0.11913
+foreground_w    0.16268
+lnL     -8189.91525
+
+---Branch null---
+kappa   3.64558
+omega   0.12616
+lnL     -8191.84918
+
+*branch model test*
+branch model
+2delta_lnL      3.86785
+SIGNIFICANT
+
+-----------------------------------------------

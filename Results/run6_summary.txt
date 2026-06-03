@@ -1,0 +1,1013 @@
+Gene	NANOG
+Number of Species       166
+Alignment length (Number of codons)     419
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   3.45940
+background_w    0.43931
+foreground1_w   0.38944
+foreground2_w   0.32974
+lnL     -27818.17198
+
+---Branch null---
+kappa   3.45981
+omega   0.43416
+lnL     -27819.68184
+
+*branch model test*
+2delta_lnL      3.01971
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	POU5F1
+Number of Species       185
+Alignment length (Number of codons)     376
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   2.98668
+background_w    0.14178
+foreground1_w   0.11757
+foreground2_w   0.13300
+lnL     -25283.09080
+
+---Branch null---
+kappa   2.98567
+omega   0.14077
+lnL     -25282.60901
+
+*branch model test*
+2delta_lnL      -0.96357
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	SOX2
+Number of Species       176
+Alignment length (Number of codons)     328
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   2.95381
+background_w    0.02580
+foreground1_w   0.00010
+foreground2_w   0.02267
+lnL     -9416.00993
+
+---Branch null---
+kappa   2.95512
+omega   0.02530
+lnL     -9418.54571
+
+*branch model test*
+2delta_lnL      5.07157
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene    IGF1
+Number of Species       188
+Alignment length (Number of codons)     184
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   2.87414
+background_w    0.11271
+foreground1_w   0.01681
+foreground2_w   0.14877
+lnL     -8837.00848
+
+---Branch null---
+kappa   2.87436
+omega   0.11167
+lnL     -8840.38721
+
+*branch model test*
+2delta_lnL      6.75746
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene    IGF2
+Number of Species       170
+Alignment length (Number of codons)     192
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   3.26606
+background_w    0.21594
+foreground1_w   0.23793
+foreground2_w   0.28794
+lnL     -11243.94779
+
+---Branch null---
+kappa   3.26627
+omega   0.21710
+lnL     -11244.17875
+
+*branch model test*
+2delta_lnL      0.46192
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	IGF1R
+Number of Species       177
+Alignment length (Number of codons)     1407
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   NA
+background_w    0.04406
+foreground1_w   0.03523
+foreground2_w   0.01475
+lnL     -77259.88354
+
+---Branch null---
+kappa   3.37624
+omega   0.04346
+lnL     -77268.584317
+
+*branch model test*
+2delta_lnL	17.40156
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene    IGF2R
+Number of Species       179
+Alignment length (Number of codons)     2659
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   3.36532
+background_w    0.15621
+foreground1_w   0.14957
+foreground2_w   0.07973
+lnL     -227506.39253
+
+---Branch null---
+kappa   3.36419
+omega   0.15481
+lnL     -227525.58418
+
+*branch model test*
+2delta_lnL      38.38330
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene    IGFBP2
+Number of Species       178
+Alignment length (Number of codons)     339
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   3.29684
+background_w    0.12542
+foreground1_w   0.13062
+foreground2_w   0.11540
+lnL     -18769.85332
+
+---Branch null---
+kappa   3.29675
+omega   0.12539
+lnL     -18769.89403
+
+*branch model test*
+2delta_lnL      0.08143
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene    IGFBP4
+Number of Species       184
+Alignment length (Number of codons)     266
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   4.12046
+background_w    0.08873
+foreground1_w   0.07297
+foreground2_w   0.02377
+lnL     -12803.42085
+
+---Branch null---
+kappa   4.12408
+omega   0.08705
+lnL     -12806.73647
+
+*branch model test*
+2delta_lnL      6.63124
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	IGFBP5
+Number of Species       183
+Alignment length (Number of codons)     276
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   2.80715
+background_w    0.05221
+foreground1_w   0.28357
+foreground2_w   0.03968
+lnL     -13391.97007
+
+---Branch null---
+kappa   2.81459
+omega   0.05614
+lnL     -13417.31243
+
+*branch model test*
+2delta_lnL      50.68473
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene    PAPPA
+Number of Species       167
+Alignment length (Number of codons)     1547
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   3.93272
+background_w    0.10351
+foreground1_w   0.10716
+foreground2_w   0.09867
+lnL     -88533.95009
+
+---Branch null---
+kappa   3.93188
+omega   0.10347
+lnL     -88534.06170
+
+*branch model test*
+2delta_lnL      0.22323
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene 	PAPPA2
+Number of Species       177
+Alignment length (Number of codons)     1814
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   3.85023
+background_w    0.23369
+foreground1_w   0.28113
+foreground2_w   0.15569
+lnL     -143022.990990
+
+---Branch null---
+kappa   3.84086
+omega   0.23247
+lnL     -143034.898130
+
+*branch model test*
+2delta_lnL      23.81428
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene    STC1
+Number of Species       190
+Alignment length (Number of codons)     250
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   3.52385
+background_w    0.11387
+foreground1_w   0.14891
+foreground2_w   0.01452
+lnL     -12424.91661
+
+---Branch null---
+kappa   3.52297
+omega   0.11176
+lnL     -12432.70525
+
+*branch model test*
+2delta_lnL      15.57729
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene    STC2
+Number of Species       188
+Alignment length (Number of codons)     315
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   3.37936
+background_w    0.15106
+foreground1_w   0.31135
+foreground2_w   0.11059
+lnL     -23112.68801
+
+---Branch null---
+kappa   3.37622
+omega   0.15305
+lnL     -23120.38790
+
+*branch model test*
+2delta_lnL      15.39978
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	HDHD2
+Number of Species       187
+Alignment length (Number of codons)     262
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   4.17786
+background_w    0.13244
+foreground1_w   0.07606
+foreground2_w   0.07797
+lnL     -15912.32786
+
+---Branch null---
+kappa   4.17877
+omega   0.12934
+lnL     -15915.20766
+
+*branch model test*
+2delta_lnL      5.75961
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	HADH
+Number of Species       187
+Alignment length (Number of codons)     768
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   3.45334
+background_w    0.16727
+foreground1_w   0.21574
+foreground2_w   0.10148
+lnL     -54877.11149
+
+---Branch null---
+kappa   3.45256
+omega   0.16627
+lnL     -54883.17408
+
+*branch model test*
+2delta_lnL      12.12517
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	HK2
+Number of Species       182
+Alignment length (Number of codons)     923
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   3.93878
+background_w    0.04853
+foreground1_w   0.04410
+foreground2_w   0.02321
+lnL     -54004.35573
+
+---Branch null---
+kappa   3.93964
+omega   0.04766
+lnL     -54010.19875
+
+*branch model test*
+2delta_lnL      11.68603
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene    PSMA7
+Number of Species       166
+Alignment length (Number of codons)     248
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   3.62488
+background_w    0.00846
+foreground1_w   0.01871
+foreground2_w   0.00010
+lnL     -10954.86251
+
+---Branch null---
+kappa   3.62406
+omega   0.00862
+lnL     -10956.85592
+
+*branch model test*
+2delta_lnL      3.98682
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene    COX17
+Number of Species       188
+Alignment length (Number of codons)     64
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   2.61367
+background_w    0.10383
+foreground1_w   0.17543
+foreground2_w   0.02000
+lnL     -3271.49922
+
+---Branch null---
+kappa   2.60659
+omega   0.10251
+lnL     -3274.75748
+
+*branch model test*
+2delta_lnL      6.51652
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene    COX5A
+Number of Species       184
+Alignment length (Number of codons)     156
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   4.14982
+background_w    0.16365
+foreground1_w   0.13688
+foreground2_w   0.04157
+lnL     -7178.83580
+
+---Branch null---
+kappa   4.14959
+omega   0.15939
+lnL     -7182.29226
+
+*branch model test*
+2delta_lnL      6.91292
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	ABAT
+Number of Species       186
+Alignment length (Number of codons)     503
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   3.70805
+background_w    0.07005
+foreground1_w   0.07058
+foreground2_w   0.05165
+lnL     -31457.64503
+
+---Branch null---
+kappa   3.70738
+omega   0.06960
+lnL     -31458.41288
+
+*branch model test*
+2delta_lnL      1.53569
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	DAP
+Number of Species       178
+Alignment length (Number of codons)     105
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   3.55372
+background_w    0.10025
+foreground1_w   0.34109
+foreground2_w   0.13344
+lnL     -6424.19003
+
+---Branch null---
+kappa   3.55843
+omega   0.10398
+lnL     -6427.82104
+
+*branch model test*
+2delta_lnL      7.26201
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	CAPZB
+Number of Species       189
+Alignment length (Number of codons)     280
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   2.99605
+background_w    0.05183
+foreground1_w   0.21403
+foreground2_w   0.06694
+lnL     -12869.91129
+
+---Branch null---
+kappa   2.99150
+omega   0.05636
+lnL     -12884.00500
+
+*branch model test*
+2delta_lnL      28.18741
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	PMPCA
+Number of Species       180
+Alignment length (Number of codons)     538
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   3.78062
+background_w    0.09505
+foreground1_w   0.11584
+foreground2_w   0.07024
+lnL     -40864.63727
+
+---Branch null---
+kappa   3.78007
+omega   0.09503
+lnL     -40866.04500
+
+*branch model test*
+2delta_lnL      2.81546
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	ACTR1A
+Number of Species       190
+Alignment length (Number of codons)     376
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   4.11509
+background_w    0.00250
+foreground1_w   0.00010
+foreground2_w   0.00010
+lnL     -16116.83106
+
+---Branch null---
+kappa   4.10077
+omega   0.00238
+lnL     -16117.88758
+
+*branch model test*
+2delta_lnL      2.11304
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	DDIT4
+Number of Species       190
+Alignment length (Number of codons)     242
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   3.01357
+background_w    0.06248
+foreground1_w   0.05886
+foreground2_w   0.10282
+lnL     -12792.89750
+
+---Branch null---
+kappa   3.01430
+omega   0.06319
+lnL     -12793.89545
+
+*branch model test*
+2delta_lnL      1.99590
+NON-SIGNIFICANT 
+
+-----------------------------------------------
+
+Gene	DDOST
+Number of Species       190
+Alignment length (Number of codons)     440
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   3.99035
+background_w    0.04863
+foreground1_w   0.04583
+foreground2_w   0.02850
+lnL     -26365.31697
+
+---Branch null---
+kappa   3.99060
+omega   0.04805
+lnL     -26366.80886
+
+*branch model test*
+2delta_lnL      2.98378
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	EHF
+Number of Species       190
+Alignment length (Number of codons)     302
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   4.24831
+background_w    0.07177
+foreground1_w   0.09767
+foreground2_w   0.05314
+lnL     -16680.41838
+
+---Branch null---
+kappa   4.24863
+omega   0.07181
+lnL     -16681.09530
+
+*branch model test*
+2delta_lnL      1.35384
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	EVPL
+Number of Species       190
+Alignment length (Number of codons)     2063
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   4.10127
+background_w    0.16349
+foreground1_w   0.22592
+foreground2_w   0.13864
+lnL     -182994.61076
+
+---Branch null---
+kappa   4.10033
+omega   0.16419
+lnL     -183006.34489
+
+*branch model test*
+2delta_lnL      23.46827
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	GAS7
+Number of Species       189
+Alignment length (Number of codons)     485
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   3.78299
+background_w    0.04241
+foreground1_w   0.08473
+foreground2_w   0.05329
+lnL     -23705.11438
+
+---Branch null---
+kappa   3.78164
+omega   0.04357
+lnL     -23709.20583
+
+*branch model test*
+2delta_lnL      8.18289
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	MAP1B
+Number of Species       189
+Alignment length (Number of codons)     2535
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   3.33672
+background_w    0.11417
+foreground1_w   0.11982
+foreground2_w   0.08601
+lnL     -173365.47988
+
+---Branch null---
+kappa   3.33711
+omega   0.11335
+lnL     -173371.54881
+
+*branch model test*
+2delta_lnL      12.13787
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	MRPL27
+Number of Species       190
+Alignment length (Number of codons)     146
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   3.28089
+background_w    0.20693
+foreground1_w   0.20627
+foreground2_w   0.23207
+lnL     -11289.93280
+
+---Branch null---
+kappa   3.28091
+omega   0.20773
+lnL     -11290.01779
+
+*branch model test*
+2delta_lnL      0.16998
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	MYO1A
+Number of Species       190
+Alignment length (Number of codons)     1050
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   4.07427
+background_w    0.19927
+foreground1_w   0.30039
+foreground2_w   0.10873
+lnL     -84990.42381
+
+---Branch null---
+kappa   4.07263
+omega   0.19823
+lnL     -85010.59504
+
+*branch model test*
+2delta_lnL      40.34246
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	NPAS4
+Number of Species       190
+Alignment length (Number of codons)     811
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   3.95750
+background_w    0.12814
+foreground1_w   0.13862
+foreground2_w   0.11582
+lnL     -46176.73183
+
+---Branch null---
+kappa   3.95738
+omega   0.12789
+lnL     -46177.01589
+
+*branch model test*
+2delta_lnL      0.56811
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	PAFAH1B3
+Number of Species       190
+Alignment length (Number of codons)     239
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   4.34788
+background_w    0.05745
+foreground1_w   0.08718
+foreground2_w   0.03635
+lnL     -13658.28753
+
+---Branch null---
+kappa   4.34558
+omega   0.05740
+lnL     -13660.00989
+
+*branch model test*
+2delta_lnL      3.44471
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	PAQR3
+Number of Species       189
+Alignment length (Number of codons)     313
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   3.52840
+background_w    0.03830
+foreground1_w   0.07061
+foreground2_w   0.00904
+lnL     -14818.48506
+
+---Branch null---
+kappa   3.52787
+omega   0.03819
+lnL     -14823.53686
+
+*branch model test*
+2delta_lnL      10.10360
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	PHF24
+Number of Species       190
+Alignment length (Number of codons)     407
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   4.61603
+background_w    0.14512
+foreground1_w   0.11792
+foreground2_w   0.14231
+lnL     -26931.26584
+
+---Branch null---
+kappa   4.61644
+omega   0.14449
+lnL     -26931.62910
+
+*branch model test*
+2delta_lnL      0.72654
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	POLR1C
+Number of Species       189
+Alignment length (Number of codons)     356
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   3.65053
+background_w    0.05360
+foreground1_w   0.06763
+foreground2_w   0.03354
+lnL     -21901.36851
+
+---Branch null---
+kappa   3.65017
+omega   0.05326
+lnL     -21902.88863
+
+*branch model test*
+2delta_lnL      3.04023
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	QRICH1
+Number of Species       187
+Alignment length (Number of codons)     806
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   4.16135
+background_w    0.02444
+foreground1_w   0.00010
+foreground2_w   0.01748
+lnL     -30444.32896
+
+---Branch null---
+kappa   4.16232
+omega   0.02393
+lnL     -30449.63240
+
+*branch model test*
+2delta_lnL      10.60687
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	TGFB3
+Number of Species       189
+Alignment length (Number of codons)     414
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   3.42557
+background_w    0.04184
+foreground1_w   0.03460
+foreground2_w   0.01060
+lnL     -19878.50001
+
+---Branch null---
+kappa   3.42452
+omega   0.04065
+lnL     -19883.98495
+
+*branch model test*
+2delta_lnL      10.96988
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	TGM1
+Number of Species       189
+Alignment length (Number of codons)     930
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   4.38119
+background_w    0.09182
+foreground1_w   0.08967
+foreground2_w   0.03614
+lnL     -59410.78254
+
+---Branch null---
+kappa   4.38183
+omega   0.09025
+lnL     -59422.77232
+
+*branch model test*
+2delta_lnL      23.97954
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	USH1C
+Number of Species       189
+Alignment length (Number of codons)     875
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   3.97796
+background_w    0.09149
+foreground1_w   0.16649
+foreground2_w   0.06675
+lnL     -52860.44719
+
+---Branch null---
+kappa   3.97636
+omega   0.09236
+lnL     -52871.28691
+
+*branch model test*
+2delta_lnL      21.67942
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	ZC3HC1
+Number of Species       189
+Alignment length (Number of codons)     517
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   3.38709
+background_w    0.19394
+foreground1_w   0.20512
+foreground2_w   0.24245
+lnL     -39577.77853
+
+---Branch null---
+kappa   3.38727
+omega   0.19579
+lnL     -39579.17226
+
+*branch model test*
+2delta_lnL      2.78746
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	ZCCHC17
+Number of Species       189
+Alignment length (Number of codons)     246
+Codon model     FMutSel
+
+---Branch alternative---
+kappa   3.52994
+background_w    0.08994
+foreground1_w   0.04220
+foreground2_w   0.06541
+lnL     -11404.81762
+
+---Branch null---
+kappa   3.53201
+omega   0.08826
+lnL     -11406.44755
+
+*branch model test*
+2delta_lnL      3.25985
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+
