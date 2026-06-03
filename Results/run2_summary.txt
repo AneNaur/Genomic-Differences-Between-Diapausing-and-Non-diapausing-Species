@@ -1,0 +1,461 @@
+Gene    IGF1
+Number of Species       44
+Alignment length (Number of codons)     184
+Codon model     FMutSel
+
+---Branch-site alternative---
+kappa   3.06155
+site_class      0       1       2a      2b
+proportion      0.89667 0.08878 0.01323 0.00131
+background_w    0.06152 1.00000 0.06152 1.00000
+foreground_w    0.06152 1.00000 2.25718 2.25718
+lnL     -3040.67136
+
+---Branch-site null---
+kappa   3.05655
+site_class      0       1       2a      2b
+proportion      0.88756 0.08807 0.02217 0.00220
+background_w    0.06136 1.00000 0.06136 1.00000
+foreground_w    0.06136 1.00000 1.00000 1.00000
+lnL     -3041.17999
+
+*branch-site model test*
+2delta_lnL      1.01725
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa   2.90444
+background_w    0.13292
+foreground_w    0.08582
+lnL     -3103.05865
+
+---Branch null---
+kappa   2.91142
+omega   0.12600
+lnL     -3103.93904
+
+*branch model test*
+2delta_lnL      1.76078
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene    IGF2
+Number of Species       38
+Alignment length (Number of codons)     192
+Codon model     FMutSel
+
+---Branch-site alternative---
+kappa   3.23226
+site_class      0       1       2a      2b
+proportion      0.64055 0.35945 0.00000 0.00000
+background_w    0.05035 1.00000 0.05035 1.00000
+foreground_w    0.05035 1.00000 1.00000 1.00000
+lnL     -3192.18251
+
+---Branch-site null---
+kappa   3.23226
+site_class      0       1       2a      2b
+proportion      0.64055 0.35945 0.00000 0.00000
+background_w    0.05035 1.00000 0.05035 1.00000
+foreground_w    0.05035 1.00000 1.00000 1.00000
+lnL     -3192.18241
+
+*branch-site model test*
+2delta_lnL      -0.00020
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa   2.74283
+background_w    0.22869
+foreground_w    0.27503
+lnL     -3257.65261
+
+---Branch null---
+kappa   2.74285
+omega   0.23336
+lnL     -3257.81547
+
+*branch model test*
+2delta_lnL      0.32572
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	IGF1R
+Number of Species       41
+Alignment length (Number of codons)     1407
+Codon model     FMutSel
+
+---Branch-site alternative---
+kappa   3.40409
+site_class      0       1       2a      2b
+proportion      0.96934 0.03017 0.00047 0.00001
+background_w    0.02183 1.00000 0.02183 1.00000
+foreground_w    0.02183 1.00000 1.00000 1.00000
+lnL     -24365.72405
+
+---Branch-site null---
+kappa   3.40409
+site_class      0       1       2a      2b
+proportion      0.96934 0.03017 0.00047 0.00001
+background_w    0.02183 1.00000 0.02183 1.00000
+foreground_w    0.02183 1.00000 1.00000 1.00000
+lnL     -24365.72404
+
+*branch-site model test*
+2delta_lnL      -0.00002
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa   3.20934
+background_w    0.03328
+foreground_w    0.02368
+lnL     -24517.57908
+
+---Branch null---
+kappa   3.21500
+omega   0.03209
+lnL     -24519.63778
+
+*branch model test*
+2delta_lnL      4.11741
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene    IGF2R
+Number of Species       42
+Alignment length (Number of codons)     2659
+Codon model     FMutSel
+
+---Branch-site alternative---
+kappa   3.40543
+site_class      0       1       2a      2b
+proportion      0.83589 0.15170 0.01050 0.00191
+background_w    0.08530 1.00000 0.08530 1.00000
+foreground_w    0.08530 1.00000 1.00000 1.00000
+lnL     -66897.95231
+
+---Branch-site null---
+kappa   3.40542
+site_class      0       1       2a      2b
+proportion      0.83589 0.15170 0.01050 0.00191
+background_w    0.08530 1.00000 0.08530 1.00000
+foreground_w    0.08530 1.00000 1.00000 1.00000
+lnL     -66897.95231
+
+*branch-site model test*
+2delta_lnL      -0.00001
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa   3.09631
+background_w    0.14567
+foreground_w    0.12798
+lnL     -67875.48433
+
+---Branch null---
+kappa   3.09710
+omega   0.14298
+lnL     -67877.72098
+
+*branch model test*
+2delta_lnL      4.47329
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene    IGFBP2
+Number of Species       41
+Alignment length (Number of codons)     339
+Codon model     FMutSel
+
+---Branch-site alternative---
+kappa   3.77630
+site_class      0       1       2a      2b
+proportion      0.88320 0.07978 0.03395 0.00307
+background_w    0.07529 1.00000 0.07529 1.00000
+foreground_w    0.07529 1.00000 1.00000 1.00000
+lnL     -5879.73198
+
+---Branch-site null---
+kappa   3.77630
+site_class      0       1       2a      2b
+proportion      0.88320 0.07978 0.03395 0.00307
+background_w    0.07529 1.00000 0.07529 1.00000
+foreground_w    0.07529 1.00000 1.00000 1.00000
+lnL     -5879.73198
+
+*branch-site model test*
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa   3.56608
+background_w    0.10503
+foreground_w    0.11279
+lnL     -5910.74648
+
+---Branch null---
+kappa   3.56592
+omega   0.10597
+lnL     -5910.79238
+
+*branch model test*
+2delta_lnL      0.09179
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene    IGFBP4
+Number of Species       45
+Alignment length (Number of codons)     266
+Codon model     FMutSel
+
+---Branch-site alternative---
+kappa   4.16105
+site_class      0       1       2a      2b
+proportion      0.93015 0.06985 0.00000 0.00000
+background_w    0.05149 1.00000 0.05149 1.00000
+foreground_w    0.05149 1.00000 1.00000 1.00000
+lnL     -4128.99649
+
+---Branch-site null---
+kappa   4.16111
+site_class      0       1       2a      2b
+proportion      0.93015 0.06985 0.00000 0.00000
+background_w    0.05149 1.00000 0.05149 1.00000
+foreground_w    0.05149 1.00000 1.00000 1.00000
+lnL     -4128.99649
+
+*branch-site model test*
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa   3.80354
+background_w    0.08942
+foreground_w    0.04267
+lnL     -4172.21780
+
+---Branch null---
+kappa   3.80509
+omega   0.08219
+lnL     -4174.79916
+
+*branch model test*
+2delta_lnL      5.16272
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	IGFBP5
+Number of Species       45
+Alignment length (Number of codons)     276
+Codon model     FMutSel
+
+---Branch-site alternative---
+kappa   3.03469
+site_class      0       1       2a      2b
+proportion      0.77273 0.03990 0.17817 0.00920
+background_w    0.03250 1.00000 0.03250 1.00000
+foreground_w    0.03250 1.00000 1.00000 1.00000
+lnL     -4700.50179
+
+---Branch-site null---
+kappa   3.03468
+site_class      0       1       2a      2b
+proportion      0.77273 0.03990 0.17817 0.00920
+background_w    0.03250 1.00000 0.03250 1.00000
+foreground_w    0.03250 1.00000 1.00000 1.00000
+lnL     -4700.50179
+
+*branch-site model test*
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa   2.69649
+background_w    0.04895
+foreground_w    0.12586
+lnL     -4733.32960
+
+---Branch null---
+kappa   2.73084
+omega   0.06253
+lnL     -4743.84630
+
+*branch model test*
+2delta_lnL      21.03341
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene    PAPPA
+Number of Species       42
+Alignment length (Number of codons)     1547
+Codon model     FMutSel
+
+---Branch-site alternative---
+kappa   3.79629
+site_class      0       1       2a      2b
+proportion      0.88672 0.09562 0.01594 0.00172
+background_w    0.05569 1.00000 0.05569 1.00000
+foreground_w    0.05569 1.00000 1.00000 1.00000
+lnL     -31018.96857
+
+---Branch-site null---
+kappa   3.79630
+site_class      0       1       2a      2b
+proportion      0.88672 0.09562 0.01594 0.00172
+background_w    0.05569 1.00000 0.05569 1.00000
+foreground_w    0.05569 1.00000 1.00000 1.00000
+lnL     -31018.96857
+
+*branch-site model test*
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa   3.54045
+background_w    0.10574
+foreground_w    0.09962
+lnL     -31437.20533
+
+---Branch null---
+kappa   3.54063
+omega   0.10480
+lnL     -31437.40186
+
+*branch model test*
+2delta_lnL      0.39306
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene 	PAPPA2
+Number of Species       42
+Alignment length (Number of codons)     1814
+Codon model     FMutSel
+
+---Branch-site alternative---
+kappa   4.05264
+site_class      0       1       2a      2b
+proportion      0.65868 0.26178 0.05691 0.02262
+background_w    0.09392 1.00000 0.09392 1.00000
+foreground_w    0.09392 1.00000 1.00000 1.00000
+lnL     -44219.21999
+
+---Branch-site null---
+kappa   4.05264
+site_class      0       1       2a      2b
+proportion      0.65868 0.26178 0.05691 0.02262
+background_w    0.09392 1.00000 0.09392 1.00000
+foreground_w    0.09392 1.00000 1.00000 1.00000
+lnL     -44219.21999
+
+*branch-site model test*
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa   3.64105
+background_w    0.23925
+foreground_w    0.20541
+lnL     -44917.27235
+
+---Branch null---
+kappa   3.63356
+omega   0.23362
+lnL     -44919.73788
+
+*branch model test*
+2delta_lnL      4.93106
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene    STC1
+Number of Species       46
+Alignment length (Number of codons)     250
+Codon model     FMutSel
+
+---Branch-site alternative---
+kappa   4.43536
+site_class      0       1       2a      2b
+proportion      0.92582 0.07418 0.00000 0.00000
+background_w    0.04380 1.00000 0.04380 1.00000
+foreground_w    0.04380 1.00000 1.00000 1.00000
+lnL     -3733.10736
+
+---Branch-site null---
+kappa   4.43522
+site_class      0       1       2a      2b
+proportion      0.92582 0.07418 0.00000 0.00000
+background_w    0.04380 1.00000 0.04380 1.00000
+foreground_w    0.04380 1.00000 1.00000 1.00000
+lnL     -3733.10736
+
+*branch-site model test*
+2delta_lnL      0.00001
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa   4.03162
+background_w    0.08712
+foreground_w    0.06194
+lnL     -3756.85669
+
+---Branch null---
+kappa   4.02863
+omega   0.08242
+lnL     -3757.40000
+
+*branch model test*
+2delta_lnL      1.08663
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene    STC2
+Number of Species       46
+Alignment length (Number of codons)     315
+Codon model     FMutSel
+
+---Branch-site alternative---
+kappa   3.92259
+site_class      0       1       2a      2b
+proportion      0.77090 0.19134 0.03025 0.00751
+background_w    0.08235 1.00000 0.08235 1.00000
+foreground_w    0.08235 1.00000 1.00000 1.00000
+lnL     -7960.45813
+
+---Branch-site null---
+kappa   3.92259
+site_class      0       1       2a      2b
+proportion      0.77090 0.19134 0.03025 0.00751
+background_w    0.08235 1.00000 0.08235 1.00000
+foreground_w    0.08235 1.00000 1.00000 1.00000
+lnL     -7960.45813
+
+*branch-site model test*
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa   3.40236
+background_w    0.14388
+foreground_w    0.19642
+lnL     -8041.26385
+
+---Branch null---
+kappa   3.40502
+omega   0.15235
+lnL     -8043.14615
+
+*branch model test*
+2delta_lnL      3.76459
+NON-SIGNIFICANT
+
+-----------------------------------------------

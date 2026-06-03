@@ -1,0 +1,80 @@
+Gene    NANOG
+Number of Species       166
+Alignment length (Number of codons)     419
+Codon model     FMutSel
+
+---Branch-site alternative---
+kappa   3.87576
+site_class      0       1       2a      2b
+proportion      0.42072 0.57928 0.00000 0.00000
+background_w    0.18274 1.00000 0.18274 1.00000
+foreground_w    0.18274 1.00000 1.00000 1.00000
+lnL     -27413.03158
+
+---Branch-site null---
+kappa   3.87576
+site_class      0       1       2a      2b
+proportion      0.42072 0.57928 0.00000 0.00000
+background_w    0.18274 1.00000 0.18274 1.00000
+foreground_w    0.18274 1.00000 1.00000 1.00000
+lnL     -27413.03158
+
+*branch-site model test*
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene    POU5F1
+Number of Species       185
+Alignment length (Number of codons)     376
+Codon model     FMutSel
+
+---Branch-site alternative---
+kappa   3.23491
+site_class      0       1       2a      2b
+proportion      0.83725 0.15807 0.00394 0.00074
+background_w    0.09137 1.00000 0.09137 1.00000
+foreground_w    0.09137 1.00000 1.00000 1.00000
+lnL     -24960.71241
+
+---Branch-site null---
+kappa   3.23489
+site_class      0       1       2a      2b
+proportion      0.83724 0.15807 0.00394 0.00074
+background_w    0.09137 1.00000 0.09137 1.00000
+foreground_w    0.09137 1.00000 1.00000 1.00000
+lnL     -24959.73148
+
+*branch-site model test*
+2delta_lnL      -1.96186
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene    SOX2
+Number of Species       176
+Alignment length (Number of codons)     328
+Codon model     FMutSel
+
+---Branch-site alternative---
+kappa   2.99909
+site_class      0       1       2a      2b
+proportion      0.98012 0.01988 0.00000 0.00000
+background_w    0.01918 1.00000 0.01918 1.00000
+foreground_w    0.01918 1.00000 1.00000 1.00000
+lnL     -9343.46890
+
+---Branch-site null---
+kappa   2.99912
+site_class      0       1       2a      2b
+proportion      0.98012 0.01988 0.00000 0.00000
+background_w    0.01918 1.00000 0.01918 1.00000
+foreground_w    0.01918 1.00000 1.00000 1.00000
+lnL     -9343.46890
+
+*branch-site model test*
+2delta_lnL      -0.00001
+NON-SIGNIFICANT
+
+-----------------------------------------------
