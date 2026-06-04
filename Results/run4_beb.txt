@@ -1,0 +1,380 @@
+---NANOG_EUARCHONTES---
+Null lnL        -12141.374992
+Alternative lnL -12141.375036
+2delta_lnL      -0.00009
+NON-SIGNIFICANT
+No beb to report
+
+---NANOG_GLIRES---
+Null lnL        -10013.767774
+Alternative lnL -10013.767774
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+No beb to report
+
+---NANOG_other---
+Null lnL        -3903.084343
+Alternative lnL -3902.857696
+2delta_lnL      0.45329
+NON-SIGNIFICANT
+No beb to report
+
+-----------------------------------------------
+
+---POU5F1_EUARCHONTES---
+Null lnL        -8834.451659
+Alternative lnL -8834.451659
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+No beb to report
+
+---POU5F1_GLIRES---
+Null lnL        -9417.17901
+Alternative lnL -9417.17901
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+No beb to report
+
+---POU5F1_other---
+Null lnL        -5968.067648
+Alternative lnL -5968.067648
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+No beb to report
+
+-----------------------------------------------
+
+---IGF1_EUARCHONTES---
+Null lnL        -3512.832074
+Alternative lnL -3512.832074
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+No beb to report
+
+---IGF1_GLIRES---
+Null lnL        -3283.459721
+Alternative lnL -3283.393257
+2delta_lnL      0.13293
+NON-SIGNIFICANT
+No beb to report
+
+---IGF1_other---
+Null lnL        -2018.617459
+Alternative lnL -2018.617459
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+No beb to report
+
+-----------------------------------------------
+
+---IGF2_EUARCHONTES---
+Null lnL        -4979.928363
+Alternative lnL -4979.928363
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+No beb to report
+
+---IGF2_GLIRES---
+Null lnL        -3725.558392
+Alternative lnL -3725.558392
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+No beb to report
+
+---IGF2_other---
+Null lnL        nan
+Alternative lnL nan
+2delta_lnL      nan
+NON-SIGNIFICANT
+No beb to report
+
+-----------------------------------------------
+
+---IGF1R_EUARCHONTES---
+Null lnL        -34151.668073
+Alternative lnL -34151.668074
+2delta_lnL      -0.00000
+NON-SIGNIFICANT
+No beb to report
+
+---IGF1R_GLIRES---
+Null lnL        -25988.527325
+Alternative lnL -25988.527325
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+No beb to report
+
+---IGF1R_other---
+Null lnL        -16439.2143
+Alternative lnL -16439.214299
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+No beb to report
+
+-----------------------------------------------
+
+---IGF2R_EUARCHONTES---
+Null lnL        -99165.732629
+Alternative lnL -99165.732625
+2delta_lnL      0.00001
+NON-SIGNIFICANT
+No beb to report
+
+---IGF2R_GLIRES---
+Null lnL        -66476.183061
+Alternative lnL -66476.18309
+2delta_lnL      -0.00006
+NON-SIGNIFICANT
+No beb to report
+
+---IGF2R_other---
+Null lnL        -46655.055354
+Alternative lnL -46655.055354
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+No beb to report
+
+-----------------------------------------------
+
+---IGFBP2_EUARCHONTES---
+Null lnL        -7129.523246
+Alternative lnL -7129.523205
+2delta_lnL      0.00008
+NON-SIGNIFICANT
+No beb to report
+
+---IGFBP2_GLIRES---
+Null lnL        -6870.97582
+Alternative lnL -6870.97582
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+No beb to report
+
+---IGFBP2_other---
+Null lnL        -4417.0109
+Alternative lnL -4417.0109
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+No beb to report
+
+-----------------------------------------------
+
+---IGFBP4_EUARCHONTES---
+Null lnL        -4946.292389
+Alternative lnL -4946.292388
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+No beb to report
+
+---IGFBP4_GLIRES---
+Null lnL        -4525.671499
+Alternative lnL -4525.671499
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+No beb to report
+
+---IGFBP4_other---
+Null lnL        -3329.165693
+Alternative lnL -3329.165693
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+No beb to report
+
+-----------------------------------------------
+
+---IGFBP5_EUARCHONTES---
+Null lnL        -5390.890845
+Alternative lnL -5389.155145
+2delta_lnL      3.47140
+NON-SIGNIFICANT
+No beb to report
+
+---IGFBP5_GLIRES---
+Null lnL        -4661.79201
+Alternative lnL -4661.792083
+2delta_lnL      -0.00015
+NON-SIGNIFICANT
+No beb to report
+
+---IGFBP5_other---
+Null lnL        -3733.504452
+Alternative lnL -3730.702975
+2delta_lnL      5.60295
+SIGNIFICANT
+site    AA      prob
+23      F       0.947
+25      H       0.954*
+42      L       0.967*
+61      N       0.823
+72      R       0.999**
+74      A       0.967*
+75      Q       0.951*
+76      G       1.000**
+85      E       0.959*
+87      K       0.967*
+90      H       0.950
+92      L       0.974*
+94      H       0.949
+97      G       0.963*
+98      V       0.961*
+100     L       0.999**
+104     S       0.939
+106     R       1.000**
+107     E       0.999**
+113     E       0.959*
+114     R       0.936
+117     R       0.958*
+128     M       0.958*
+132     T       0.957*
+143     K       0.970*
+145     V       0.618
+155     L       0.959*
+162     K       0.967*
+163     L       0.749
+164     T       0.955*
+166     S       0.969*
+169     V       0.956*
+170     -       0.956*
+181     I       0.951*
+182     S       0.681
+183     V       0.784
+186     M       0.843
+199     M       0.921
+201     A       0.960*
+204     Q       0.967*
+214     P       0.956*
+244     I       0.994**
+262     D       0.942
+265     F       0.947
+269     N       0.525
+272     S       0.955*
+273     S       0.956*
+274     N       0.959*
+
+-----------------------------------------------
+
+---PAPPA_EUARCHONTES---
+Null lnL        -37438.040214
+Alternative lnL -37437.879886
+2delta_lnL      0.32066
+NON-SIGNIFICANT
+No beb to report
+
+---PAPPA_GLIRES---
+Null lnL        -29023.263719
+Alternative lnL -29023.263827
+2delta_lnL      -0.00022
+NON-SIGNIFICANT
+No beb to report
+
+---PAPPA_other---
+Null lnL        -22071.690071
+Alternative lnL -22069.388301
+2delta_lnL      4.60354
+SIGNIFICANT
+site    AA      prob
+131 	M	0.669
+166 	Q	0.607
+370	M	0.584
+418	L	0.613
+632	V	0.549
+703	F	0.617
+704	A	0.633
+705	V	0.639
+714	I	0.747
+790	S	0.622
+808	F	0.509
+858	G	0.575
+1004	W	0.550
+1128	K	0.589
+1219 	D	0.583
+1232	N	0.977*
+1235	S	0.597
+1240	T	0.607
+1241	S	0.980*
+1345	F	0.624
+1415	H	0.587
+1442	W	0.609
+1456	I	0.586
+
+-----------------------------------------------
+
+---PAPPA2_EUARCHONTES---
+Null lnL        -60700.436385
+Alternative lnL -60696.942421
+2delta_lnL      6.98793
+SIGNIFICANT
+site    AA      prob
+343 	K 	0.583
+362 	K 	0.693
+450 	S 	0.517
+526 	S 	0.557
+537 	E 	0.729
+602 	E 	0.622
+941 	E 	0.620
+1063 	G 	0.522
+1065 	Q 	0.526
+1198 	Y 	0.696
+
+---PAPPA2_GLIRES---
+Null lnL        -47367.277005
+Alternative lnL -47367.277016
+2delta_lnL      -0.00002
+NON-SIGNIFICANT
+No beb to report
+
+---PAPPA2_other---
+Null lnL        -29483.098255
+Alternative lnL -29483.098255
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+No beb to report
+
+-----------------------------------------------
+
+---STC1_EUARCHONTES---
+Null lnL        -4484.046008
+Alternative lnL -4484.046008
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+No beb to report
+
+---STC1_GLIRES---
+Null lnL        -4450.305205
+Alternative lnL -4450.305205
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+No beb to report
+
+---STC1_other---
+Null lnL        -3700.974309
+Alternative lnL -3700.508426
+2delta_lnL      0.93177
+NON-SIGNIFICANT
+No beb to report
+
+-----------------------------------------------
+
+---STC2_EUARCHONTES---
+Null lnL        -9940.060522
+Alternative lnL -9939.992019
+2delta_lnL      0.13701
+NON-SIGNIFICANT
+No beb to report
+
+---STC2_GLIRES---
+Null lnL        -7630.088357
+Alternative lnL -7630.088357
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+No beb to report
+
+---STC2_other---
+Null lnL        -4807.946273
+Alternative lnL -4807.946273
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+No beb to report
+
+-----------------------------------------------
+
