@@ -1,0 +1,1613 @@
+Gene	NANOG
+Alignment length        419
+Codon model     FMutSel
+
+========== EUARCHONTES ==========
+---Branch-site alternative---
+kappa   3.91327
+site_class      0       1       2a      2b
+proportion      0.51296 0.48704 0.00000 0.00000
+background_w    0.15249 1.00000 0.15249 1.00000
+foreground_w    0.15249 1.00000 1.00000 1.00000
+lnL     -12141.37504
+
+---Branch-site null---
+kappa   3.91327
+site_class      0       1       2a      2b
+proportion      0.51296 0.48704 0.00000 0.00000
+background_w    0.15249 1.00000 0.15249 1.00000
+foreground_w    0.15249 1.00000 1.00000 1.00000
+lnL     -12141.37499
+
+*branch-site model test*
+2delta_lnL      -0.00009
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa   3.53428
+background_w    0.41951
+foreground_w    0.21892
+lnL     -12298.31428
+
+---Branch null---
+kappa   3.53247
+omega   0.40454
+lnL     -12303.27402
+
+*branch model test*
+2delta_lnL      9.91948
+SIGNIFICANT
+
+
+========== GLIRES ==========
+---Branch-site alternative---
+kappa   3.70480
+site_class      0       1       2a      2b
+proportion      0.51048 0.48162 0.00407 0.00384
+background_w    0.20304 1.00000 0.20304 1.00000
+foreground_w    0.20304 1.00000 1.00000 1.00000
+lnL     -10013.76777
+
+---Branch-site null---
+kappa   3.70480
+site_class      0       1       2a      2b
+proportion      0.51048 0.48162 0.00407 0.00384
+background_w    0.20304 1.00000 0.20304 1.00000
+foreground_w    0.20304 1.00000 1.00000 1.00000
+lnL     -10013.76777
+
+*branch-site model test*
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa   3.29700
+background_w    0.42086
+foreground_w    0.35866
+lnL     -10097.24750
+
+---Branch null---
+kappa   3.29731
+omega   0.41673
+lnL     -10097.54125
+
+*branch model test*
+2delta_lnL      0.58749
+NON-SIGNIFICANT
+
+
+========== other ==========
+---Branch-site alternative---
+kappa   3.76327
+site_class      0       1       2a      2b
+proportion      0.47640 0.34681 0.10231 0.07448
+background_w    0.16386 1.00000 0.16386 1.00000
+foreground_w    0.16386 1.00000 1.79438 1.79438
+lnL     -3902.85770
+
+---Branch-site null---
+kappa   3.74845
+site_class      0       1       2a      2b
+proportion      0.43877 0.32643 0.13464 0.10017
+background_w    0.16227 1.00000 0.16227 1.00000
+foreground_w    0.16227 1.00000 1.00000 1.00000
+lnL     -3903.08434
+
+*branch-site model test*
+2delta_lnL      0.45329
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa   3.57729
+background_w    0.42311
+foreground_w    0.92071
+lnL     -3931.53634
+
+---Branch null---
+kappa   3.56431
+omega   0.45754
+lnL     -3934.16165
+
+*branch model test*
+2delta_lnL      5.25060
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	POU5F1
+Alignment length        376
+Codon model     FMutSel
+
+========== EUARCHONTES ==========
+---Branch-site alternative---
+kappa   3.33904
+site_class      0       1       2a      2b
+proportion      0.86219 0.13351 0.00373 0.00058
+background_w    0.06817 1.00000 0.06817 1.00000
+foreground_w    0.06817 1.00000 1.00000 1.00000
+lnL     -8834.45166
+
+---Branch-site null---
+kappa   3.33905
+site_class      0       1       2a      2b
+proportion      0.86221 0.13351 0.00370 0.00057
+background_w    0.06817 1.00000 0.06817 1.00000
+foreground_w    0.06817 1.00000 1.00000 1.00000
+lnL     -8834.45166
+
+*branch-site model test*
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa   3.23396
+background_w    0.13758
+foreground_w    0.10833
+lnL     -8946.92424
+
+---Branch null---
+kappa   3.23415
+omega   0.13607
+lnL     -8947.24152
+
+*branch model test*
+2delta_lnL      0.63456
+NON-SIGNIFICANT
+
+
+========== GLIRES ==========
+---Branch-site alternative---
+kappa   2.89451
+site_class      0       1       2a      2b
+proportion      0.88373 0.11626 0.00000 0.00000
+background_w    0.09633 1.00000 0.09633 1.00000
+foreground_w    0.09633 1.00000 1.00000 1.00000
+lnL     -9417.17901
+
+---Branch-site null---
+kappa   2.89451
+site_class      0       1       2a      2b
+proportion      0.88374 0.11626 0.00000 0.00000
+background_w    0.09633 1.00000 0.09633 1.00000
+foreground_w    0.09633 1.00000 1.00000 1.00000
+lnL     -9417.17901
+
+*branch-site model test*
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa   2.76824
+background_w    0.15482
+foreground_w    0.14481
+lnL     -9533.68120
+
+---Branch null---
+kappa   2.76812
+omega   0.15429
+lnL     -9533.71804
+
+*branch model test*
+2delta_lnL      0.07368
+NON-SIGNIFICANT
+
+
+========== other ==========
+---Branch-site alternative---
+kappa   2.92729
+site_class      0       1       2a      2b
+proportion      0.86598 0.13402 0.00000 0.00000
+background_w    0.07392 1.00000 0.07392 1.00000
+foreground_w    0.07392 1.00000 1.00000 1.00000
+lnL     -5968.06765
+
+---Branch-site null---
+kappa   2.92731
+site_class      0       1       2a      2b
+proportion      0.86598 0.13402 0.00000 0.00000
+background_w    0.07392 1.00000 0.07392 1.00000
+foreground_w    0.07392 1.00000 1.00000 1.00000
+lnL     -5968.06765
+
+*branch-site model test*
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa   2.76655
+background_w    0.12255
+foreground_w    0.11659
+lnL     -6028.22006
+
+---Branch null---
+kappa   2.76616
+omega   0.12191
+lnL     -6028.24205
+
+*branch model test*
+2delta_lnL      0.04399
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	SOX2
+Alignment length        328
+Codon model     FMutSel
+
+========== EUARCHONTES ==========
+---Branch-site alternative---
+kappa   3.27262
+site_class      0       1       2a      2b
+proportion      0.98767 0.01233 0.00000 0.00000
+background_w    0.01785 1.00000 0.01785 1.00000
+foreground_w    0.01785 1.00000 1.00000 1.00000
+lnL     -4311.87339
+
+---Branch-site null---
+kappa   3.27262
+site_class      0       1       2a      2b
+proportion      0.98767 0.01233 0.00000 0.00000
+background_w    0.01785 1.00000 0.01785 1.00000
+foreground_w    0.01785 1.00000 1.00000 1.00000
+lnL     -4311.87339
+
+*branch-site model test*
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa   3.21258
+background_w    0.02538
+foreground_w    0.00010
+lnL     -4332.04202
+
+---Branch null---
+kappa   3.21784
+omega   0.02427
+lnL     -4334.16598
+
+*branch model test*
+2delta_lnL      4.24793
+SIGNIFICANT
+
+
+========== GLIRES ==========
+---Branch-site alternative---
+kappa   3.10330
+site_class      0       1       2a      2b
+proportion      0.98568 0.00877 0.00550 0.00005
+background_w    0.01082 1.00000 0.01082 1.00000
+foreground_w    0.01082 1.00000 1.00000 1.00000
+lnL     -3214.55589
+
+---Branch-site null---
+kappa   3.10333
+site_class      0       1       2a      2b
+proportion      0.98568 0.00877 0.00550 0.00005
+background_w    0.01082 1.00000 0.01082 1.00000
+foreground_w    0.01082 1.00000 1.00000 1.00000
+lnL     -3214.55589
+
+*branch-site model test*
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa   3.18301
+background_w    0.01824
+foreground_w    0.02420
+lnL     -3243.51297
+
+---Branch null---
+kappa   3.18505
+omega   0.01880
+lnL     -3243.62808
+
+*branch model test*
+2delta_lnL      0.23021
+NON-SIGNIFICANT
+
+
+========== other ==========
+---Branch-site alternative---
+kappa   2.59493
+site_class      0       1       2a      2b
+proportion      0.99367 0.00633 0.00000 0.00000
+background_w    0.02860 1.00000 0.02860 1.00000
+foreground_w    0.02860 1.00000 1.00000 1.00000
+lnL     -3068.93865
+
+---Branch-site null---
+kappa   2.59493
+site_class      0       1       2a      2b
+proportion      0.99367 0.00633 0.00000 0.00000
+background_w    0.02860 1.00000 0.02860 1.00000
+foreground_w    0.02860 1.00000 1.00000 1.00000
+lnL     -3068.93865
+
+*branch-site model test*
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa   2.62971
+background_w    0.03120
+foreground_w    0.00010
+lnL     -3071.72976
+
+---Branch null---
+kappa   2.63018
+omega   0.03086
+lnL     -3072.32215
+
+*branch model test*
+2delta_lnL      1.18477
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene    IGF1
+Alignment length        184
+Codon model     FMutSel
+
+========== EUARCHONTES ==========
+---Branch-site alternative---
+kappa   3.38457
+site_class      0       1       2a      2b
+proportion      0.90281 0.09719 0.00000 0.00000
+background_w    0.05497 1.00000 0.05497 1.00000
+foreground_w    0.05497 1.00000 1.00000 1.00000
+lnL     -3512.83207
+
+---Branch-site null---
+kappa   3.38458
+site_class      0       1       2a      2b
+proportion      0.90281 0.09719 0.00000 0.00000
+background_w    0.05497 1.00000 0.05497 1.00000
+foreground_w    0.05497 1.00000 1.00000 1.00000
+lnL     -3512.83207
+
+*branch-site model test*
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa   3.23619
+background_w    0.10939
+foreground_w    0.02074
+lnL     -3561.42130
+
+---Branch null---
+kappa   3.24248
+omega   0.10601
+lnL     -3563.36422
+
+*branch model test*
+2delta_lnL      3.88585
+SIGNIFICANT
+
+
+========== GLIRES ==========
+---Branch-site alternative---
+kappa   2.92279
+site_class      0       1       2a      2b
+proportion      0.87752 0.11084 0.01033 0.00131
+background_w    0.06437 1.00000 0.06437 1.00000
+foreground_w    0.06437 1.00000 1.85854 1.85854
+lnL     -3283.39326
+
+---Branch-site null---
+kappa   2.92068
+site_class      0       1       2a      2b
+proportion      0.87337 0.10992 0.01484 0.00187
+background_w    0.06462 1.00000 0.06462 1.00000
+foreground_w    0.06462 1.00000 1.00000 1.00000
+lnL     -3283.45972
+
+*branch-site model test*
+2delta_lnL      0.13293
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa   2.74379
+background_w    0.12975
+foreground_w    0.17649
+lnL     -3347.27029
+
+---Branch null---
+kappa   2.74251
+omega   0.13237
+lnL     -3347.55987
+
+*branch model test*
+2delta_lnL      0.57917
+NON-SIGNIFICANT
+
+
+========== other ==========
+---Branch-site alternative---
+kappa   2.30520
+site_class      0       1       2a      2b
+proportion      0.94491 0.05509 0.00000 0.00000
+background_w    0.05873 1.00000 0.05873 1.00000
+foreground_w    0.05873 1.00000 1.00000 1.00000
+lnL     -2018.61746
+
+---Branch-site null---
+kappa   2.30520
+site_class      0       1       2a      2b
+proportion      0.94491 0.05509 0.00000 0.00000
+background_w    0.05873 1.00000 0.05873 1.00000
+foreground_w    0.05873 1.00000 1.00000 1.00000
+lnL     -2018.61746
+
+*branch-site model test*
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa   2.23482
+background_w    0.09335
+foreground_w    0.00010
+lnL     -2035.24630
+
+---Branch null---
+kappa   2.23880
+omega   0.08849
+lnL     -2038.49804
+
+*branch model test*
+2delta_lnL      6.50349
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene    IGF2
+Alignment length	192
+Codon model	FMutSel
+
+========== EUARCHONTES ==========
+---Branch-site alternative---
+kappa	4.18722
+site_class	0	1	2a	2b
+proportion	0.78957	0.21043	0.00000	0.00000
+background_w	0.09932	1.00000	0.09932	1.00000
+foreground_w	0.09932	1.00000	1.00000	1.00000
+lnL	-4979.92836
+
+---Branch-site null---
+kappa	4.19487
+site_class	0	1	2a	2b
+proportion	0.79045	0.20955	0.00000	0.00000
+background_w	0.09934	1.00000	0.09934	1.00000
+foreground_w	0.09934	1.00000	1.00000	1.00000
+lnL	-4979.89353
+
+*branch-site model test*
+2delta_lnL	-0.06967
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa	3.67200
+background_w	0.20265
+foreground_w	0.23133
+lnL	-5095.28601
+
+---Branch null---
+kappa	3.66621
+omega	0.20444
+lnL	-5095.49561
+
+*branch model test*
+2delta_lnL	0.41921
+NON-SIGNIFICANT
+
+
+========== GLIRES ==========
+---Branch-site alternative---
+kappa	3.23330
+site_class	0	1	2a	2b
+proportion	0.67996	0.32004	0.00000	0.00000
+background_w	0.06026	1.00000	0.06026	1.00000
+foreground_w	0.06026	1.00000	1.00000	1.00000
+lnL	-3725.55839
+
+---Branch-site null---
+kappa	3.23330
+site_class	0	1	2a	2b
+proportion	0.67996	0.32004	0.00000	0.00000
+background_w	0.06026	1.00000	0.06026	1.00000
+foreground_w	0.06026	1.00000	1.00000	1.00000
+lnL	-3725.55839
+
+*branch-site model test*
+2delta_lnL	0.00000
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa	2.92013
+background_w	0.24637
+foreground_w	0.30480
+lnL	-3813.64733
+
+---Branch null---
+kappa	2.92008
+omega	0.24790
+lnL	-3813.73253
+
+*branch model test*
+2delta_lnL	0.17039
+NON-SIGNIFICANT
+
+
+========== other ==========
+---Branch-site alternative---
+kappa	NA
+lnL	nan
+
+---Branch-site null---
+kappa	NA
+lnL	nan
+
+*branch-site model test*
+2delta_lnL	nan
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa	NA
+lnL	nan
+
+---Branch null---
+kappa	2.37171
+omega	0.15313
+lnL	-2110.44143
+
+*branch model test*
+2delta_lnL	nan
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	IGF1R
+Alignment length	1407
+Codon model	FMutSel
+
+========== EUARCHONTES ==========
+---Branch-site alternative---
+kappa	3.92148
+site_class	0	1	2a	2b
+proportion	0.94184	0.05816	0.00000	0.00000
+background_w	0.02719	1.00000	0.02719	1.00000
+foreground_w	0.02719	1.00000	1.00000	1.00000
+lnL	-34151.66807
+
+---Branch-site null---
+kappa	3.92144
+site_class	0	1	2a	2b
+proportion	0.94184	0.05816	0.00000	0.00000
+background_w	0.02719	1.00000	0.02719	1.00000
+foreground_w	0.02719	1.00000	1.00000	1.00000
+lnL	-34151.66807
+
+*branch-site model test*
+2delta_lnL	-0.00000
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa	3.41263
+background_w	0.04496
+foreground_w	0.02293
+lnL	-34496.03629
+
+---Branch null---
+kappa	3.41497
+omega	0.04444
+lnL	-34498.55278
+
+*branch model test*
+2delta_lnL	5.03298
+SIGNIFICANT
+
+
+========== GLIRES ==========
+---Branch-site alternative---
+kappa	3.75634
+site_class	0	1	2a	2b
+proportion	0.97241	0.02759	0.00000	0.00000
+background_w	0.02406	1.00000	0.02406	1.00000
+foreground_w	0.02406	1.00000	1.00000	1.00000
+lnL	-25988.52732
+
+---Branch-site null---
+kappa	3.75634
+site_class	0	1	2a	2b
+proportion	0.97241	0.02759	0.00000	0.00000
+background_w	0.02406	1.00000	0.02406	1.00000
+foreground_w	0.02406	1.00000	1.00000	1.00000
+lnL	-25988.52732
+
+*branch-site model test*
+2delta_lnL	0.00000
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa	3.58990
+background_w	0.03692
+foreground_w	0.01479
+lnL	-26170.41661
+
+---Branch null---
+kappa	3.59166
+omega	0.03576
+lnL	-26175.61269
+
+*branch model test*
+2delta_lnL	10.39216
+SIGNIFICANT
+
+
+========== other ==========
+---Branch-site alternative---
+kappa	3.32827
+site_class	0	1	2a	2b
+proportion	0.95742	0.04258	0.00000	0.00000
+background_w	0.03131	1.00000	0.03131	1.00000
+foreground_w	0.03131	1.00000	1.00000	1.00000
+lnL	-16439.21430
+
+---Branch-site null---
+kappa	3.32827
+site_class	0	1	2a	2b
+proportion	0.95742	0.04258	0.00000	0.00000
+background_w	0.03131	1.00000	0.03131	1.00000
+foreground_w	0.03131	1.00000	1.00000	1.00000
+lnL	-16439.21430
+
+*branch-site model test*
+2delta_lnL	0.00000
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa	3.15360
+background_w	0.05170
+foreground_w	0.05116
+lnL	-16571.72056
+
+---Branch null---
+kappa	3.15365
+omega	0.05168
+lnL	-16571.72130
+
+*branch model test*
+2delta_lnL	0.00148
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene    IGF2R
+Alignment length	2659
+Codon model	FMutSel
+
+========== EUARCHONTES ==========
+---Branch-site alternative---
+kappa	3.91749
+site_class	0	1	2a	2b
+proportion	0.84173	0.15827	0.00000	0.00000
+background_w	0.08672	1.00000	0.08672	1.00000
+foreground_w	0.08672	1.00000	1.00000	1.00000
+lnL	-99165.73263
+
+---Branch-site null---
+kappa	3.91753
+site_class	0	1	2a	2b
+proportion	0.84173	0.15827	0.00000	0.00000
+background_w	0.08672	1.00000	0.08672	1.00000
+foreground_w	0.08672	1.00000	1.00000	1.00000
+lnL	-99165.73263
+
+*branch-site model test*
+2delta_lnL	0.00001
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa	3.50784
+background_w	0.14814
+foreground_w	0.09231
+lnL	-100948.46303
+
+---Branch null---
+kappa	3.50733
+omega	0.14506
+lnL	-100963.22908
+
+*branch model test*
+2delta_lnL	29.53210
+SIGNIFICANT
+
+
+========== GLIRES ==========
+---Branch-site alternative---
+kappa	3.78888
+site_class	0	1	2a	2b
+proportion	0.82677	0.17323	0.00000	0.00000
+background_w	0.07796	1.00000	0.07796	1.00000
+foreground_w	0.07796	1.00000	1.00000	1.00000
+lnL	-66476.18309
+
+---Branch-site null---
+kappa	3.78890
+site_class	0	1	2a	2b
+proportion	0.82678	0.17322	0.00000	0.00000
+background_w	0.07796	1.00000	0.07796	1.00000
+foreground_w	0.07796	1.00000	1.00000	1.00000
+lnL	-66476.18306
+
+*branch-site model test*
+2delta_lnL	-0.00006
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa	3.47333
+background_w	0.15273
+foreground_w	0.09767
+lnL	-67551.51913
+
+---Branch null---
+kappa	3.47409
+omega	0.15167
+lnL	-67555.11739
+
+*branch model test*
+2delta_lnL	7.19652
+SIGNIFICANT
+
+
+========== other ==========
+---Branch-site alternative---
+kappa	3.20143
+site_class	0	1	2a	2b
+proportion	0.78086	0.15097	0.05713	0.01104
+background_w	0.09382	1.00000	0.09382	1.00000
+foreground_w	0.09382	1.00000	1.00000	1.00000
+lnL	-46655.05535
+
+---Branch-site null---
+kappa	3.20143
+site_class	0	1	2a	2b
+proportion	0.78086	0.15097	0.05712	0.01104
+background_w	0.09382	1.00000	0.09382	1.00000
+foreground_w	0.09382	1.00000	1.00000	1.00000
+lnL	-46655.05535
+
+*branch-site model test*
+2delta_lnL	0.00000
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa	2.94761
+background_w	0.16314
+foreground_w	0.21628
+lnL	-47321.48758
+
+---Branch null---
+kappa	2.94580
+omega	0.16669
+lnL	-47325.75094
+
+*branch model test*
+2delta_lnL	8.52672
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene    IGFBP2
+Alignment length	339
+Codon model	FMutSel
+
+========== EUARCHONTES ==========
+---Branch-site alternative---
+kappa	3.48940
+site_class	0	1	2a	2b
+proportion	0.90387	0.09613	0.00000	0.00000
+background_w	0.10502	1.00000	0.10502	1.00000
+foreground_w	0.10502	1.00000	1.00000	1.00000
+lnL	-7129.52321
+
+---Branch-site null---
+kappa	3.48942
+site_class	0	1	2a	2b
+proportion	0.90387	0.09612	0.00000	0.00000
+background_w	0.10502	1.00000	0.10502	1.00000
+foreground_w	0.10502	1.00000	1.00000	1.00000
+lnL	-7129.52325
+
+*branch-site model test*
+2delta_lnL	0.00008
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa	3.24224
+background_w	0.14339
+foreground_w	0.04310
+lnL	-7170.23646
+
+---Branch null---
+kappa	3.24525
+omega	0.13951
+lnL	-7173.56389
+
+*branch model test*
+2delta_lnL	6.65486
+SIGNIFICANT
+
+
+========== GLIRES ==========
+---Branch-site alternative---
+kappa	3.78404
+site_class	0	1	2a	2b
+proportion	0.89941	0.10059	0.00000	0.00000
+background_w	0.06897	1.00000	0.06897	1.00000
+foreground_w	0.06897	1.00000	1.00000	1.00000
+lnL	-6870.97582
+
+---Branch-site null---
+kappa	3.78404
+site_class	0	1	2a	2b
+proportion	0.89941	0.10059	0.00000	0.00000
+background_w	0.06897	1.00000	0.06897	1.00000
+foreground_w	0.06897	1.00000	1.00000	1.00000
+lnL	-6870.97582
+
+*branch-site model test*
+2delta_lnL	0.00000
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa	3.54066
+background_w	0.11271
+foreground_w	0.12152
+lnL	-6945.06482
+
+---Branch null---
+kappa	3.54086
+omega	0.11305
+lnL	-6945.08627
+
+*branch model test*
+2delta_lnL	0.04290
+NON-SIGNIFICANT
+
+
+========== other ==========
+---Branch-site alternative---
+kappa	2.99400
+site_class	0	1	2a	2b
+proportion	0.66118	0.07345	0.23884	0.02653
+background_w	0.06908	1.00000	0.06908	1.00000
+foreground_w	0.06908	1.00000	1.00000	1.00000
+lnL	-4417.01090
+
+---Branch-site null---
+kappa	2.99400
+site_class	0	1	2a	2b
+proportion	0.66118	0.07345	0.23884	0.02653
+background_w	0.06908	1.00000	0.06908	1.00000
+foreground_w	0.06908	1.00000	1.00000	1.00000
+lnL	-4417.01090
+
+*branch-site model test*
+2delta_lnL	0.00000
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa	2.80819
+background_w	0.10278
+foreground_w	0.36815
+lnL	-4447.71828
+
+---Branch null---
+kappa	2.78895
+omega	0.11208
+lnL	-4453.19708
+
+*branch model test*
+2delta_lnL	10.95760
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene    IGFBP4
+Alignment length	266
+Codon model	FMutSel
+
+========== EUARCHONTES ==========
+---Branch-site alternative---
+kappa	4.83418
+site_class	0	1	2a	2b
+proportion	0.92900	0.07100	0.00000	0.00000
+background_w	0.04471	1.00000	0.04471	1.00000
+foreground_w	0.04471	1.00000	1.00000	1.00000
+lnL	-4946.29239
+
+---Branch-site null---
+kappa	4.83424
+site_class	0	1	2a	2b
+proportion	0.92900	0.07100	0.00000	0.00000
+background_w	0.04471	1.00000	0.04471	1.00000
+foreground_w	0.04471	1.00000	1.00000	1.00000
+lnL	-4946.29239
+
+*branch-site model test*
+2delta_lnL	0.00000
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa	4.15494
+background_w	0.07539
+foreground_w	0.03994
+lnL	-4997.51387
+
+---Branch null---
+kappa	4.15896
+omega	0.07325
+lnL	-4998.47866
+
+*branch model test*
+2delta_lnL	1.92957
+NON-SIGNIFICANT
+
+
+========== GLIRES ==========
+---Branch-site alternative---
+kappa	4.43234
+site_class	0	1	2a	2b
+proportion	0.92958	0.07042	0.00000	0.00000
+background_w	0.06042	1.00000	0.06042	1.00000
+foreground_w	0.06042	1.00000	1.00000	1.00000
+lnL	-4525.67150
+
+---Branch-site null---
+kappa	4.43234
+site_class	0	1	2a	2b
+proportion	0.92958	0.07042	0.00000	0.00000
+background_w	0.06042	1.00000	0.06042	1.00000
+foreground_w	0.06042	1.00000	1.00000	1.00000
+lnL	-4525.67150
+
+*branch-site model test*
+2delta_lnL	0.00000
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa	4.18459
+background_w	0.10272
+foreground_w	0.03154
+lnL	-4585.14409
+
+---Branch null---
+kappa	4.19430
+omega	0.10016
+lnL	-4586.74163
+
+*branch model test*
+2delta_lnL	3.19506
+NON-SIGNIFICANT
+
+
+========== other ==========
+---Branch-site alternative---
+kappa	4.62623
+site_class	0	1	2a	2b
+proportion	0.91087	0.08913	0.00000	0.00000
+background_w	0.04651	1.00000	0.04651	1.00000
+foreground_w	0.04651	1.00000	1.00000	1.00000
+lnL	-3329.16569
+
+---Branch-site null---
+kappa	4.62619
+site_class	0	1	2a	2b
+proportion	0.91087	0.08913	0.00000	0.00000
+background_w	0.04651	1.00000	0.04651	1.00000
+foreground_w	0.04651	1.00000	1.00000	1.00000
+lnL	-3329.16569
+
+*branch-site model test*
+2delta_lnL	0.00000
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa	4.03693
+background_w	0.08698
+foreground_w	0.07721
+lnL	-3372.18784
+
+---Branch null---
+kappa	4.03729
+omega	0.08661
+lnL	-3372.20831
+
+*branch model test*
+2delta_lnL	0.04096
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	IGFBP5
+Alignment length	276
+Codon model	FMutSel
+
+========== EUARCHONTES ==========
+---Branch-site alternative---
+kappa	2.62633
+site_class	0	1	2a	2b
+proportion	0.96004	0.02792	0.01170	0.00034
+background_w	0.03700	1.00000	0.03700	1.00000
+foreground_w	0.03700	1.00000	5.21061	5.21061
+lnL	-5389.15514
+
+---Branch-site null---
+kappa	2.60304
+site_class	0	1	2a	2b
+proportion	0.95116	0.02702	0.02122	0.00060
+background_w	0.03672	1.00000	0.03672	1.00000
+foreground_w	0.03672	1.00000	1.00000	1.00000
+lnL	-5390.89084
+
+*branch-site model test*
+2delta_lnL	3.47140
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa	2.44471
+background_w	0.04886
+foreground_w	0.03096
+lnL	-5420.62787
+
+---Branch null---
+kappa	2.43870
+omega	0.04728
+lnL	-5421.39963
+
+*branch model test*
+2delta_lnL	1.54353
+NON-SIGNIFICANT
+
+
+========== GLIRES ==========
+---Branch-site alternative---
+kappa	3.39026
+site_class	0	1	2a	2b
+proportion	0.95615	0.04384	0.00000	0.00000
+background_w	0.03568	1.00000	0.03568	1.00000
+foreground_w	0.03568	1.00000	1.00000	1.00000
+lnL	-4661.79208
+
+---Branch-site null---
+kappa	3.39025
+site_class	0	1	2a	2b
+proportion	0.95615	0.04385	0.00000	0.00000
+background_w	0.03568	1.00000	0.03568	1.00000
+foreground_w	0.03568	1.00000	1.00000	1.00000
+lnL	-4661.79201
+
+*branch-site model test*
+2delta_lnL	-0.00015
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa	3.21157
+background_w	0.05764
+foreground_w	0.02337
+lnL	-4704.62616
+
+---Branch null---
+kappa	3.21325
+omega	0.05573
+lnL	-4705.99033
+
+*branch model test*
+2delta_lnL	2.72834
+NON-SIGNIFICANT
+
+
+========== other ==========
+---Branch-site alternative---
+kappa	3.42088
+site_class	0	1	2a	2b
+proportion	0.56199	0.02865	0.38951	0.01986
+background_w	0.03677	1.00000	0.03677	1.00000
+foreground_w	0.03677	1.00000	3.56327	3.56327
+lnL	-3730.70298
+
+---Branch-site null---
+kappa	3.32982
+site_class	0	1	2a	2b
+proportion	0.32292	0.01636	0.62886	0.03186
+background_w	0.03667	1.00000	0.03667	1.00000
+foreground_w	0.03667	1.00000	1.00000	1.00000
+lnL	-3733.50445
+
+*branch-site model test*
+2delta_lnL	5.60295
+SIGNIFICANT
+
+---Branch alternative---
+kappa	3.02227
+background_w	0.05424
+foreground_w	1.57714
+lnL	-3762.11922
+
+---Branch null---
+kappa	2.98933
+omega	0.07910
+lnL	-3809.08162
+
+*branch model test*
+2delta_lnL	93.92480
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene    PAPPA
+Alignment length	1547
+Codon model	FMutSel
+
+========== EUARCHONTES ==========
+---Branch-site alternative---
+kappa	4.71582
+site_class	0	1	2a	2b
+proportion	0.89645	0.09882	0.00425	0.00047
+background_w	0.05340	1.00000	0.05340	1.00000
+foreground_w	0.05340	1.00000	1.97831	1.97831
+lnL	-37437.87989
+
+---Branch-site null---
+kappa	4.71546
+site_class	0	1	2a	2b
+proportion	0.89197	0.09836	0.00871	0.00096
+background_w	0.05334	1.00000	0.05334	1.00000
+foreground_w	0.05334	1.00000	1.00000	1.00000
+lnL	-37438.04021
+
+*branch-site model test*
+2delta_lnL	0.32066
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa	4.37596
+background_w	0.10506
+foreground_w	0.10356
+lnL	-38060.60794
+
+---Branch null---
+kappa	4.37589
+omega	0.10498
+lnL	-38060.61290
+
+*branch model test*
+2delta_lnL	0.00992
+NON-SIGNIFICANT
+
+
+========== GLIRES ==========
+---Branch-site alternative---
+kappa	3.98129
+site_class	0	1	2a	2b
+proportion	0.92164	0.07836	0.00000	0.00000
+background_w	0.05646	1.00000	0.05646	1.00000
+foreground_w	0.05646	1.00000	1.00000	1.00000
+lnL	-29023.26383
+
+---Branch-site null---
+kappa	3.98128
+site_class	0	1	2a	2b
+proportion	0.92165	0.07835	0.00000	0.00000
+background_w	0.05646	1.00000	0.05646	1.00000
+foreground_w	0.05646	1.00000	1.00000	1.00000
+lnL	-29023.26372
+
+*branch-site model test*
+2delta_lnL	-0.00022
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa	3.79409
+background_w	0.09953
+foreground_w	0.08856
+lnL	-29383.54864
+
+---Branch null---
+kappa	3.79414
+omega	0.09887
+lnL	-29383.83221
+
+*branch model test*
+2delta_lnL	0.56715
+NON-SIGNIFICANT
+
+
+========== other ==========
+---Branch-site alternative---
+kappa	3.34237
+site_class	0	1	2a	2b
+proportion	0.93268	0.06534	0.00185	0.00013
+background_w	0.06808	1.00000	0.06808	1.00000
+foreground_w	0.06808	1.00000	62.86838	62.86838
+lnL	-22069.38830
+
+---Branch-site null---
+kappa	3.33580
+site_class	0	1	2a	2b
+proportion	0.90062	0.06251	0.03448	0.00239
+background_w	0.06733	1.00000	0.06733	1.00000
+foreground_w	0.06733	1.00000	1.00000	1.00000
+lnL	-22071.69007
+
+*branch-site model test*
+2delta_lnL	4.60354
+SIGNIFICANT
+
+---Branch alternative---
+kappa	3.13295
+background_w	0.09940
+foreground_w	0.12266
+lnL	-22266.00113
+
+---Branch null---
+kappa	3.13223
+omega	0.10037
+lnL	-22266.59331
+
+*branch model test*
+2delta_lnL	1.18437
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene 	PAPPA2
+Alignment length	1814
+Codon model	FMutSel
+
+========== EUARCHONTES ==========
+---Branch-site alternative---
+kappa	4.43400
+site_class	0	1	2a	2b
+proportion	0.68081	0.23958	0.05889	0.02072
+background_w	0.09272	1.00000	0.09272	1.00000
+foreground_w	0.09272	1.00000	1.15250	1.15250
+lnL	-60696.94242
+
+---Branch-site null---
+kappa	4.43145
+site_class	0	1	2a	2b
+proportion	0.67499	0.23747	0.06476	0.02278
+background_w	0.09245	1.00000	0.09245	1.00000
+foreground_w	0.09245	1.00000	1.00000	1.00000
+lnL	-60700.43639
+
+*branch-site model test*
+2delta_lnL	6.98793
+SIGNIFICANT
+
+---Branch alternative---
+kappa	3.99464
+background_w	0.23664
+foreground_w	0.18312
+lnL	-62077.24149
+
+---Branch null---
+kappa	3.98199
+omega	0.23259
+lnL	-62081.91711
+
+*branch model test*
+2delta_lnL	9.35123
+SIGNIFICANT
+
+
+========== GLIRES ==========
+---Branch-site alternative---
+kappa	3.92757
+site_class	0	1	2a	2b
+proportion	0.72768	0.24737	0.01861	0.00633
+background_w	0.10897	1.00000	0.10897	1.00000
+foreground_w	0.10897	1.00000	1.00000	1.00000
+lnL	-47367.27702
+
+---Branch-site null---
+kappa	3.92774
+site_class	0	1	2a	2b
+proportion	0.72767	0.24738	0.01862	0.00633
+background_w	0.10897	1.00000	0.10897	1.00000
+foreground_w	0.10897	1.00000	1.00000	1.00000
+lnL	-47367.27701
+
+*branch-site model test*
+2delta_lnL	-0.00002
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa	3.58217
+background_w	0.23704
+foreground_w	0.17549
+lnL	-48087.30258
+
+---Branch null---
+kappa	3.58270
+omega	0.23583
+lnL	-48088.64632
+
+*branch model test*
+2delta_lnL	2.68748
+NON-SIGNIFICANT
+
+
+========== other ==========
+---Branch-site alternative---
+kappa	4.01725
+site_class	0	1	2a	2b
+proportion	0.68640	0.19834	0.08942	0.02584
+background_w	0.09447	1.00000	0.09447	1.00000
+foreground_w	0.09447	1.00000	1.00000	1.00000
+lnL	-29483.09826
+
+---Branch-site null---
+kappa	4.01725
+site_class	0	1	2a	2b
+proportion	0.68640	0.19834	0.08943	0.02584
+background_w	0.09447	1.00000	0.09447	1.00000
+foreground_w	0.09447	1.00000	1.00000	1.00000
+lnL	-29483.09826
+
+*branch-site model test*
+2delta_lnL	0.00000
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa	3.62490
+background_w	0.20165
+foreground_w	0.28512
+lnL	-29868.99937
+
+---Branch null---
+kappa	3.62273
+omega	0.20536
+lnL	-29871.99043
+
+*branch model test*
+2delta_lnL	5.98211
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene    STC1
+Alignment length	250
+Codon model	FMutSel
+
+========== EUARCHONTES ==========
+---Branch-site alternative---
+kappa	4.77186
+site_class	0	1	2a	2b
+proportion	0.92344	0.07656	0.00000	0.00000
+background_w	0.04419	1.00000	0.04419	1.00000
+foreground_w	0.04419	1.00000	1.00000	1.00000
+lnL	-4484.04601
+
+---Branch-site null---
+kappa	4.77185
+site_class	0	1	2a	2b
+proportion	0.92344	0.07656	0.00000	0.00000
+background_w	0.04419	1.00000	0.04419	1.00000
+foreground_w	0.04419	1.00000	1.00000	1.00000
+lnL	-4484.04601
+
+*branch-site model test*
+2delta_lnL	0.00000
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa	4.30127
+background_w	0.08618
+foreground_w	0.04081
+lnL	-4511.46848
+
+---Branch null---
+kappa	4.29786
+omega	0.08309
+lnL	-4512.58894
+
+*branch model test*
+2delta_lnL	2.24092
+NON-SIGNIFICANT
+
+
+========== GLIRES ==========
+---Branch-site alternative---
+kappa	3.65835
+site_class	0	1	2a	2b
+proportion	0.93588	0.06412	0.00000	0.00000
+background_w	0.08995	1.00000	0.08995	1.00000
+foreground_w	0.08995	1.00000	1.00000	1.00000
+lnL	-4450.30520
+
+---Branch-site null---
+kappa	3.65835
+site_class	0	1	2a	2b
+proportion	0.93588	0.06412	0.00000	0.00000
+background_w	0.08995	1.00000	0.08995	1.00000
+foreground_w	0.08995	1.00000	1.00000	1.00000
+lnL	-4450.30520
+
+*branch-site model test*
+2delta_lnL	0.00000
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa	3.46790
+background_w	0.12480
+foreground_w	0.00010
+lnL	-4456.96422
+
+---Branch null---
+kappa	3.46858
+omega	0.11778
+lnL	-4465.55349
+
+*branch model test*
+2delta_lnL	17.17854
+SIGNIFICANT
+
+
+========== other ==========
+---Branch-site alternative---
+kappa	2.84285
+site_class	0	1	2a	2b
+proportion	0.87762	0.07915	0.03965	0.00358
+background_w	0.07519	1.00000	0.07519	1.00000
+foreground_w	0.07519	1.00000	3.90105	3.90105
+lnL	-3700.50843
+
+---Branch-site null---
+kappa	2.83790
+site_class	0	1	2a	2b
+proportion	0.78840	0.07036	0.12967	0.01157
+background_w	0.07523	1.00000	0.07523	1.00000
+foreground_w	0.07523	1.00000	1.00000	1.00000
+lnL	-3700.97431
+
+*branch-site model test*
+2delta_lnL	0.93177
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa	2.69219
+background_w	0.11262
+foreground_w	0.29935
+lnL	-3727.29562
+
+---Branch null---
+kappa	2.68879
+omega	0.11731
+lnL	-3729.33561
+
+*branch model test*
+2delta_lnL	4.07997
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene    STC2
+Alignment length	315
+Codon model	FMutSel
+
+========== EUARCHONTES ==========
+---Branch-site alternative---
+kappa	4.02220
+site_class	0	1	2a	2b
+proportion	0.78598	0.17178	0.03466	0.00758
+background_w	0.09882	1.00000	0.09882	1.00000
+foreground_w	0.09882	1.00000	1.00000	1.00000
+lnL	-9939.99202
+
+---Branch-site null---
+kappa	4.02228
+site_class	0	1	2a	2b
+proportion	0.78601	0.17173	0.03468	0.00758
+background_w	0.09883	1.00000	0.09883	1.00000
+foreground_w	0.09883	1.00000	1.00000	1.00000
+lnL	-9940.06052
+
+*branch-site model test*
+2delta_lnL	0.13701
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa	3.46389
+background_w	0.15566
+foreground_w	0.19440
+lnL	-10030.69437
+
+---Branch null---
+kappa	3.46629
+omega	0.15818
+lnL	-10031.18434
+
+*branch model test*
+2delta_lnL	0.97995
+NON-SIGNIFICANT
+
+
+========== GLIRES ==========
+---Branch-site alternative---
+kappa	3.56026
+site_class	0	1	2a	2b
+proportion	0.88875	0.11125	0.00000	0.00000
+background_w	0.09486	1.00000	0.09486	1.00000
+foreground_w	0.09486	1.00000	1.00000	1.00000
+lnL	-7630.08836
+
+---Branch-site null---
+kappa	3.56025
+site_class	0	1	2a	2b
+proportion	0.88875	0.11125	0.00000	0.00000
+background_w	0.09486	1.00000	0.09486	1.00000
+foreground_w	0.09486	1.00000	1.00000	1.00000
+lnL	-7630.08836
+
+*branch-site model test*
+2delta_lnL	0.00000
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa	3.26277
+background_w	0.13983
+foreground_w	0.09597
+lnL	-7700.37815
+
+---Branch null---
+kappa	3.26428
+omega	0.13767
+lnL	-7701.12510
+
+*branch model test*
+2delta_lnL	1.49389
+NON-SIGNIFICANT
+
+
+========== other ==========
+---Branch-site alternative---
+kappa	3.25120
+site_class	0	1	2a	2b
+proportion	0.56337	0.07496	0.31919	0.04247
+background_w	0.09006	1.00000	0.09006	1.00000
+foreground_w	0.09006	1.00000	1.00000	1.00000
+lnL	-4807.94627
+
+---Branch-site null---
+kappa	3.25120
+site_class	0	1	2a	2b
+proportion	0.56338	0.07496	0.31919	0.04247
+background_w	0.09006	1.00000	0.09006	1.00000
+foreground_w	0.09006	1.00000	1.00000	1.00000
+lnL	-4807.94627
+
+*branch-site model test*
+2delta_lnL	0.00000
+NON-SIGNIFICANT
+
+---Branch alternative---
+kappa	3.02086
+background_w	0.14260
+foreground_w	0.45565
+lnL	-4854.96278
+
+---Branch null---
+kappa	3.03233
+omega	0.15624
+lnL	-4861.67686
+
+*branch model test*
+2delta_lnL	13.42815
+SIGNIFICANT
+
+-----------------------------------------------
