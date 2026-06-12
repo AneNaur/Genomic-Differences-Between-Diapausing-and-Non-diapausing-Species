@@ -1,3 +1,5 @@
+This directory contains all scripts used for the analyses, and below is details of when each script is used.
+
 | Run | Scripts executed | Codon models | Frequency model | Species | Genes | Control template | Outputs |
 |---|---|---|---|---|---|---|---|
 | run1 | prep1, summarize1, beb1 | Branch-site null, Branch-site alternative | FMutSel | All | Pluripotency, control0 | alt_template, null_template | run1_summary, run1_beb |
