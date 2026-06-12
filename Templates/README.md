@@ -1,4 +1,6 @@
-| Name | Models | model | NSsites | CodonFreq | fix_omega | omega |
+This directery contains all the control file templates used for making the control files for the CODEML input. Below shows detailes of the template name, what model or models are specified, as well as the values for the variables: model, NSsites, CondFreq, fix_omega, and omega.
+
+| Name | Model(s) | model | NSsites | CodonFreq | fix_omega | omega |
 |---|---|---|---|---|---|---|
 | branch_template | Fixed-ratios model | 2 | 0 | 7 | 0 | 0.5 |
 | branch_template2 | Fixed-ratios model | 2 | 0 | 2 | 0 | 0.5 |
