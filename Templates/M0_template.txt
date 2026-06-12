@@ -1,0 +1,20 @@
+seqfile = 
+outfile = 
+treefile = 
+
+noisy = 4 * how much rubbish on the screen (medium)
+verbose = 1 * how detailed is the output (detailed)
+
+seqtype = 1 * data type (codons)
+ndata = 1 * number of dataset/genes per input file (only 1)
+icode = 0 * genetic code (universal)
+cleandata = 0 * remove sites with ambiguity data? (no)
+
+model = 0 * models for varying omega across branches (same omega for all branches)
+NSsites = 0 * models for varying omega across sites (same omega for all sites)
+* this combination specifies the M0 model
+
+CodonFreq = 7 * codon frequencies ()
+clock = 0 * clock model (no clock)
+fix_omega = 0 * estimate or fix omega (estimate)
+omega = 0.5 * initial omega
