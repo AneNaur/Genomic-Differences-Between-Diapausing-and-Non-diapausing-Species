@@ -1,0 +1,3 @@
+| Name | Models | model | NSsites | CodonFreq | fix_omega | omega |
+|---|---|---|---|---|---|---|
+| Hi | Hi | Hi | Hi | Hi | Hi | Hi |
