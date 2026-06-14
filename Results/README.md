@@ -21,5 +21,5 @@ This directory contains all the summary and beb files produced by the summary an
 The following files were used for making figures in Rstudio:
 | File | Contents |
 |---|---|
-| data_run6.txt | Copy of the data available on sheet "Branch6" of supplementary "S2 - Codeml Results"
-| time.txt | Copy of the data available on sheet "Time" of supplementary "S2 - Codeml Results"
+| data_run6.txt | Copy of the data available on sheet "Branch6" of supplementary "S3 - Codeml Results"
+| time.txt | Copy of the data available on sheet "Time" of supplementary "S3 - Codeml Results"
