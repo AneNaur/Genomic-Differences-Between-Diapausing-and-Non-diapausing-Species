@@ -17,3 +17,9 @@ This directory contains all the summary and beb files produced by the summary an
 | run7_beb | Branch-site alternative | All | Pluripotency, Significant IGF run6 |
 | run8_summary | Site models: M1a, M2a, M7, M8 | Subset | Furthest from w0=w1 line run6 |
 | run8_beb | Site models: M2a, M8 | Subset | Furthest from w0=w1 line run6 |
+
+The following files were used for making figures in Rstudio:
+| File | Contents |
+|---|---|
+| data_run6.txt | Copy of the data available on sheet "Branch6" of supplementary "S2 - Codeml Results"
+| time.txt | Copy of the data available on sheet "Time" of supplementary "S2 - Codeml Results"
