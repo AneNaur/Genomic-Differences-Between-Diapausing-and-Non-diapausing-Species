@@ -1,0 +1,387 @@
+Gene    IGF1
+Number of Species       44
+Alignment length (Number of codons)     184
+Codon model     FMutSel
+
+---Model 1: NearlyNeutral---
+kappa   3.06735
+Omega for site classes (K=2)
+p:   0.90629  0.09371
+w:   0.06444  1.00000
+lnL     -3042.909757
+
+---Model 2: PositiveSelection---
+kappa   3.1044
+Omega for site classes (K=3)
+p:   0.90622  0.08843  0.00535
+w:   0.06564  1.00000  2.52924
+lnL     -3042.554159
+
+---Model 7: beta---
+kappa   3.03938
+Omega for site classes (K=10)
+p:   0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000
+w:   0.00000  0.00009  0.00102  0.00508  0.01691  0.04429  0.09933  0.20054  0.37817  0.69602
+lnL     -3037.840792
+
+---Model 8: beta&w>1---
+kappa   3.07723
+Omega for site classes (K=11)
+p:   0.09842  0.09842  0.09842  0.09842  0.09842  0.09842  0.09842  0.09842  0.09842  0.09842  0.01578
+w:   0.00000  0.00025  0.00193  0.00741  0.02032  0.04590  0.09181  0.17045  0.30618  0.57371  1.78306
+lnL     -3035.229845
+
+*site model test: M1a vs. M2a*
+2delta_lnL      0.71120
+NON-SIGNIFICANT
+
+*site model test: M7 vs. M8*
+2delta_lnL      5.22189
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene    IGFBP5
+Number of Species       45
+Alignment length (Number of codons)     276
+Codon model     FMutSel
+
+---Model 1: NearlyNeutral---
+kappa   2.88867
+Omega for site classes (K=2)
+p:   0.96656  0.03344
+w:   0.05107  1.00000
+lnL     -4714.870275
+
+---Model 2: PositiveSelection---
+kappa   2.8887
+Omega for site classes (K=3)
+p:   0.96656  0.03344  0.00000
+w:   0.05107  1.00000 30.38088
+lnL     -4714.870275
+
+---Model 7: beta---
+kappa   2.77564
+Omega for site classes (K=10)
+p:   0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000
+w:   0.00001  0.00045  0.00231  0.00677  0.01531  0.02993  0.05370  0.09236  0.15949  0.31116
+lnL     -4690.969745
+
+---Model 8: beta&w>1---
+kappa   2.79501
+Omega for site classes (K=11)
+p:   0.09915  0.09915  0.09915  0.09915  0.09915  0.09915  0.09915  0.09915  0.09915  0.09915  0.00851
+w:   0.00005  0.00086  0.00342  0.00857  0.01728  0.03092  0.05171  0.08394  0.13819  0.25990  1.00000
+lnL     -4689.173802
+
+*site model test: M1a vs. M2a*
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+
+*site model test: M7 vs. M8*
+2delta_lnL      3.59189
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene    STC1
+Number of Species       46
+Alignment length (Number of codons)     250
+Codon model     FMutSel
+
+---Model 1: NearlyNeutral---
+kappa   4.43534
+Omega for site classes (K=2)
+p:   0.92582  0.07418
+w:   0.04380  1.00000
+lnL     -3733.107357
+
+---Model 2: PositiveSelection---
+kappa   4.43529
+Omega for site classes (K=3)
+p:   0.92582  0.07418  0.00000
+w:   0.04380  1.00000  6.65515
+lnL     -3733.107357
+
+---Model 7: beta---
+kappa   4.12158
+Omega for site classes (K=10)
+p:   0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000
+w:   0.00000  0.00002  0.00027  0.00161  0.00612  0.01788  0.04421  0.09850  0.20889  0.46715
+lnL     -3720.743973
+
+---Model 8: beta&w>1---
+kappa   4.12549
+Omega for site classes (K=11)
+p:   0.09984  0.09984  0.09984  0.09984  0.09984  0.09984  0.09984  0.09984  0.09984  0.09984  0.00165
+w:   0.00000  0.00002  0.00029  0.00169  0.00629  0.01807  0.04410  0.09724  0.20471  0.45679  1.00000
+lnL     -3720.738354
+
+*site model test: M1a vs. M2a*
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+
+*site model test: M7 vs. M8*
+2delta_lnL      0.01124
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene    STC2
+Number of Species       46
+Alignment length (Number of codons)     315
+Codon model     FMutSel
+
+---Model 1: NearlyNeutral---
+kappa   3.92617
+Omega for site classes (K=2)
+p:   0.79648  0.20352
+w:   0.08480  1.00000
+lnL     -7961.278786
+
+---Model 2: PositiveSelection---
+kappa   3.92617
+Omega for site classes (K=3)
+p:   0.79648  0.20352  0.00000
+w:   0.08480  1.00000 209.13850
+lnL     -7961.278786
+
+---Model 7: beta---
+kappa   3.40845
+Omega for site classes (K=10)
+p:   0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000
+w:   0.00016  0.00298  0.01153  0.02831  0.05596  0.09781  0.15865  0.24671  0.37937  0.61499
+lnL     -7889.258097
+
+---Model 8: beta&w>1---
+kappa   3.40846
+Omega for site classes (K=11)
+p:   0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.00001
+w:   0.00016  0.00298  0.01153  0.02831  0.05596  0.09781  0.15865  0.24671  0.37937  0.61499  4.25303
+lnL     -7889.261013
+
+*site model test: M1a vs. M2a*
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+
+*site model test: M7 vs. M8*
+2delta_lnL      -0.00583
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene    COX5A
+Number of Species       44
+Alignment length (Number of codons)     156
+Codon model     FMutSel
+
+---Model 1: NearlyNeutral---
+kappa   4.30919
+Omega for site classes (K=2)
+p:   0.87190  0.12810
+w:   0.03753  1.00000
+lnL     -2217.084629
+
+---Model 2: PositiveSelection---
+kappa   4.36594
+Omega for site classes (K=3)
+p:   0.87681  0.10242  0.02077
+w:   0.04048  1.00000  1.97927
+lnL     -2216.572261
+
+---Model 7: beta---
+kappa   4.26564
+Omega for site classes (K=10)
+p:   0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000
+w:   0.00000  0.00000  0.00000  0.00004  0.00057  0.00495  0.02972  0.13289  0.43415  0.89607
+lnL     -2216.317939
+
+---Model 8: beta&w>1---
+kappa   4.34663
+Omega for site classes (K=11)
+p:   0.09477  0.09477  0.09477  0.09477  0.09477  0.09477  0.09477  0.09477  0.09477  0.09477  0.05231
+w:   0.00000  0.00002  0.00026  0.00153  0.00580  0.01696  0.04199  0.09370  0.19941  0.45008  1.71054
+lnL     -2212.680829
+
+*site model test: M1a vs. M2a*
+2delta_lnL      1.02474
+NON-SIGNIFICANT
+
+*site model test: M7 vs. M8*
+2delta_lnL      7.27422
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	DAP
+Number of Species       43
+Alignment length (Number of codons)     105
+Codon model     FMutSel
+
+---Model 1: NearlyNeutral---
+kappa   4.41868
+Omega for site classes (K=2)
+p:   0.87555  0.12445
+w:   0.04232  1.00000
+lnL     -2031.222748
+
+---Model 2: PositiveSelection---
+kappa   4.41868
+Omega for site classes (K=3)
+p:   0.87555  0.10855  0.01590
+w:   0.04232  1.00000  1.00000
+lnL     -2031.222748
+
+---Model 7: beta---
+kappa   4.12393
+Omega for site classes (K=10)
+p:   0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000
+w:   0.00000  0.00005  0.00056  0.00279  0.00935  0.02471  0.05631  0.11708  0.23365  0.49227
+lnL     -2016.256477
+
+---Model 8: beta&w>1---
+kappa   4.12393
+Omega for site classes (K=11)
+p:   0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.00001
+w:   0.00000  0.00005  0.00056  0.00279  0.00935  0.02471  0.05631  0.11707  0.23365  0.49226  1.00000
+lnL     -2016.257169
+
+*site model test: M1a vs. M2a*
+2delta_lnL      0.00000
+NON-SIGNIFICANT
+
+*site model test: M7 vs. M8*
+2delta_lnL      -0.00138
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	CAPZB
+Number of Species       46
+Alignment length (Number of codons)     280
+Codon model     FMutSel
+
+---Model 1: NearlyNeutral---
+kappa   2.38993
+Omega for site classes (K=2)
+p:   0.95672  0.04328
+w:   0.00297  1.00000
+lnL     -4431.822896
+
+---Model 2: PositiveSelection---
+kappa   2.64059
+Omega for site classes (K=3)
+p:   0.95682  0.03235  0.01083
+w:   0.00325  1.00000  4.46027
+lnL     -4405.340801
+
+---Model 7: beta---
+kappa   2.42293
+Omega for site classes (K=10)
+p:   0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000
+w:   0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.02118  1.00000
+lnL     -4437.551813
+
+---Model 8: beta&w>1---
+kappa   2.6714
+Omega for site classes (K=11)
+p:   0.09892  0.09892  0.09892  0.09892  0.09892  0.09892  0.09892  0.09892  0.09892  0.09892  0.01082
+w:   0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00004  0.01742  0.90290  4.48585
+lnL     -4413.137095
+
+*site model test: M1a vs. M2a*
+2delta_lnL      52.96419
+SIGNIFICANT
+
+*site model test: M7 vs. M8*
+2delta_lnL      48.82944
+SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	MYO1A
+Number of Species	46
+Alignment length (Number of codons)	1050
+Codon model	FMutSel
+
+---Model 1: NearlyNeutral---
+kappa   
+Omega for site classes (K=2)
+p:   0.77808  0.22192
+w:   0.08193  1.00000
+lnL     -28543.012408
+
+---Model 2: PositiveSelection---
+kappa   4.09421
+Omega for site classes (K=3)
+p:   0.77810  0.22190  0.00000
+w:   0.08193  1.00000 65.32355
+lnL     -28543.012453
+
+---Model 7: beta---
+kappa   3.76455
+Omega for site classes (K=10)
+p:   0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000
+w:   0.00003  0.00125  0.00708  0.02230  0.05266  0.10506  0.18793  0.31237  0.49510  0.77141
+lnL     -28348.578129
+
+---Model 8: beta&w>1---
+kappa   NA
+Omega for site classes (K=11)
+p:   NA
+w:   NA
+lnL     NA
+
+*site model test: M1a vs. M2a*
+2delta_lnL      0.00009
+NON-SIGNIFICANT
+
+*site model test: M7 vs. M8*
+2delta_lnL      NA
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+Gene	QRICH1
+Number of Species       45
+Alignment length (Number of codons)     806
+Codon model     FMutSel
+
+---Model 1: NearlyNeutral---
+kappa   4.44932
+Omega for site classes (K=2)
+p:   0.98228  0.01772
+w:   0.02355  1.00000
+lnL     -11112.256437
+
+---Model 2: PositiveSelection---
+kappa   4.44922
+Omega for site classes (K=3)
+p:   0.98228  0.01772  0.00000
+w:   0.02355  1.00000  9.08961
+lnL     -11112.256433
+
+---Model 7: beta---
+kappa   4.39681
+Omega for site classes (K=10)
+p:   0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000
+w:   0.00000  0.00000  0.00000  0.00003  0.00027  0.00151  0.00637  0.02229  0.07052  0.23930
+lnL     -11090.722057
+
+---Model 8: beta&w>1---
+kappa   4.41377
+Omega for site classes (K=11)
+p:   0.09987  0.09987  0.09987  0.09987  0.09987  0.09987  0.09987  0.09987  0.09987  0.09987  0.00134
+w:   0.00000  0.00000  0.00000  0.00005  0.00039  0.00190  0.00724  0.02323  0.06854  0.22086  3.45324
+lnL     -11087.633501
+
+*site model test: M1a vs. M2a*
+2delta_lnL      0.00001
+NON-SIGNIFICANT
+
+*site model test: M7 vs. M8*
+2delta_lnL      6.17711
+SIGNIFICANT
+
+-----------------------------------------------
+

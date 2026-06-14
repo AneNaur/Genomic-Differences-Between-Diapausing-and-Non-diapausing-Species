@@ -1,0 +1,136 @@
+---IGF1---
+M1a lnL -3042.909757
+M2a lnL -3042.554159
+M1a vs. M2a 2delta_lnL  0.711196
+NON-SIGNIFICANT
+
+M7 lnL  -3037.840792
+M8 lnL  -3035.229845
+M7 vs. M8 2delta_lnL    5.221894
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+---IGFBP5---
+M1a lnL -4714.870275
+M2a lnL -4714.870275
+M1a vs. M2a 2delta_lnL  0.000000
+NON-SIGNIFICANT
+
+M7 lnL  -4690.969745
+M8 lnL  -4689.173802
+M7 vs. M8 2delta_lnL    3.591886
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+---STC1---
+M1a lnL -3733.107357
+M2a lnL -3733.107357
+M1a vs. M2a 2delta_lnL  0.000000
+NON-SIGNIFICANT
+
+M7 lnL  -3720.743973
+M8 lnL  -3720.738354
+M7 vs. M8 2delta_lnL    0.011238
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+---STC2---
+M1a lnL -7961.278786
+M2a lnL -7961.278786
+M1a vs. M2a 2delta_lnL  0.000000
+NON-SIGNIFICANT
+
+M7 lnL  -7889.258097
+M8 lnL  -7889.261013
+M7 vs. M8 2delta_lnL    -0.005832
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+---COX5A---
+M1a lnL -2217.084629
+M2a lnL -2216.572261
+M1a vs. M2a 2delta_lnL  1.0247360000003027
+NON-SIGNIFICANT
+
+M7 lnL  -2216.317939
+M8 lnL  -2212.680829
+M7 vs. M8 2delta_lnL    7.274220000000241
+SIGNIFICANT
+
+site    Pr(w>1) post mean +- SE for w
+20 A      0.865         1.584 +- 0.524
+27 V      0.820         1.519 +- 0.520
+28 L      0.910         1.638 +- 0.508
+32 T      0.974*        1.699 +- 0.447
+34 V      0.838         1.549 +- 0.534
+44 L      0.914         1.634 +- 0.482
+
+-----------------------------------------------
+
+---DAP---
+M1a lnL -2031.222748
+M2a lnL -2031.222748
+M1a vs. M2a 2delta_lnL  0.000000
+NON-SIGNIFICANT
+
+M7 lnL  -2016.256477
+M8 lnL  -2016.257169
+M7 vs. M8 2delta_lnL    -0.001384
+NON-SIGNIFICANT
+
+-----------------------------------------------
+
+---CAPZB---
+M1a lnL -4431.822896
+M2a lnL -4405.340801
+M1a vs. M2a 2delta_lnL  52.964190
+SIGNIFICANT
+
+site    Pr(w>1) post mean +- SE for w
+250 Q      1.000**       4.565 +- 0.795
+256 S      0.985*        4.482 +- 0.861
+
+M7 lnL  -4437.551813
+M8 lnL  -4413.137095
+M7 vs. M8 2delta_lnL    48.829436
+SIGNIFICANT
+
+site    Pr(w>1) post mean +- SE for w
+250 Q      1.000**       3.130 +- 0.815
+251 T      0.806         2.465 +- 0.928
+255 K      0.728         2.248 +- 0.966
+256 S      1.000**       3.130 +- 0.815
+
+-----------------------------------------------
+
+---MYO1A---
+M1a lnL	-28543.012408
+M2a lnL	-28543.012453
+M1a vs. M2a 2delta_lnL	0.00009
+NON-SIGNIFICANT
+
+M7 lnL	-28348.578129
+M8 lnL	NA
+M7 vs. M8 2delta_lnL	NA
+
+-----------------------------------------------
+
+---QRICH1---
+M1a lnL -11112.256437
+M2a lnL -11112.256433
+M1a vs. M2a 2delta_lnL  0.000008
+NON-SIGNIFICANT
+
+M7 lnL  -11090.722057
+M8 lnL  -11087.633501
+M7 vs. M8 2delta_lnL    6.177112
+SIGNIFICANT
+
+site    Pr(w>1) post mean +- SE for w
+444 Q      0.967*        2.091 +- 1.392
+
+-----------------------------------------------
