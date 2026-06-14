@@ -1,4 +1,4 @@
-This directory contains all scripts used for the analyses, and below is details of when each script is used. Figures were made with the rmd file "figures-diapause-thesis" using the following three inputs: omm_v12_190tax_CDS_tree.nexus (stored in directory Data), time.txt (stored in directory Results), and data_run6.txt (stored in directory Results), 
+This directory contains all scripts used for the analyses, and below is details of when each script is used. Figures were made with the rmd file "figures-diapause-thesis" using the following three inputs: omm_v12_190tax_CDS_tree.nexus (stored in directory Data), time.txt (stored in directory Results), and data_run6.txt (stored in directory Results).
 
 | Run | Scripts executed | Codon models | Frequency model | Species | Genes | Control template | Outputs |
 |---|---|---|---|---|---|---|---|
