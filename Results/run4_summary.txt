@@ -2,7 +2,7 @@ Gene	NANOG
 Alignment length        419
 Codon model     FMutSel
 
-========== EUARCHONTES ==========
+========== LAURASIATHERIA ==========
 ---Branch-site alternative---
 kappa   3.91327
 site_class      0       1       2a      2b
@@ -118,7 +118,7 @@ Gene	POU5F1
 Alignment length        376
 Codon model     FMutSel
 
-========== EUARCHONTES ==========
+========== LAURASIATHERIA ==========
 ---Branch-site alternative---
 kappa   3.33904
 site_class      0       1       2a      2b
@@ -234,7 +234,7 @@ Gene	SOX2
 Alignment length        328
 Codon model     FMutSel
 
-========== EUARCHONTES ==========
+========== LAURASIATHERIA ==========
 ---Branch-site alternative---
 kappa   3.27262
 site_class      0       1       2a      2b
@@ -350,7 +350,7 @@ Gene    IGF1
 Alignment length        184
 Codon model     FMutSel
 
-========== EUARCHONTES ==========
+========== LAURASIATHERIA ==========
 ---Branch-site alternative---
 kappa   3.38457
 site_class      0       1       2a      2b
@@ -466,7 +466,7 @@ Gene    IGF2
 Alignment length	192
 Codon model	FMutSel
 
-========== EUARCHONTES ==========
+========== LAURASIATHERIA ==========
 ---Branch-site alternative---
 kappa	4.18722
 site_class	0	1	2a	2b
@@ -572,7 +572,7 @@ Gene	IGF1R
 Alignment length	1407
 Codon model	FMutSel
 
-========== EUARCHONTES ==========
+========== LAURASIATHERIA ==========
 ---Branch-site alternative---
 kappa	3.92148
 site_class	0	1	2a	2b
@@ -688,7 +688,7 @@ Gene    IGF2R
 Alignment length	2659
 Codon model	FMutSel
 
-========== EUARCHONTES ==========
+========== LAURASIATHERIA ==========
 ---Branch-site alternative---
 kappa	3.91749
 site_class	0	1	2a	2b
@@ -804,7 +804,7 @@ Gene    IGFBP2
 Alignment length	339
 Codon model	FMutSel
 
-========== EUARCHONTES ==========
+========== LAURASIATHERIA ==========
 ---Branch-site alternative---
 kappa	3.48940
 site_class	0	1	2a	2b
@@ -920,7 +920,7 @@ Gene    IGFBP4
 Alignment length	266
 Codon model	FMutSel
 
-========== EUARCHONTES ==========
+========== LAURASIATHERIA ==========
 ---Branch-site alternative---
 kappa	4.83418
 site_class	0	1	2a	2b
@@ -1036,7 +1036,7 @@ Gene	IGFBP5
 Alignment length	276
 Codon model	FMutSel
 
-========== EUARCHONTES ==========
+========== LAURASIATHERIA ==========
 ---Branch-site alternative---
 kappa	2.62633
 site_class	0	1	2a	2b
@@ -1152,7 +1152,7 @@ Gene    PAPPA
 Alignment length	1547
 Codon model	FMutSel
 
-========== EUARCHONTES ==========
+========== LAURASIATHERIA ==========
 ---Branch-site alternative---
 kappa	4.71582
 site_class	0	1	2a	2b
@@ -1268,7 +1268,7 @@ Gene 	PAPPA2
 Alignment length	1814
 Codon model	FMutSel
 
-========== EUARCHONTES ==========
+========== LAURASIATHERIA ==========
 ---Branch-site alternative---
 kappa	4.43400
 site_class	0	1	2a	2b
@@ -1384,7 +1384,7 @@ Gene    STC1
 Alignment length	250
 Codon model	FMutSel
 
-========== EUARCHONTES ==========
+========== LAURASIATHERIA ==========
 ---Branch-site alternative---
 kappa	4.77186
 site_class	0	1	2a	2b
@@ -1500,7 +1500,7 @@ Gene    STC2
 Alignment length	315
 Codon model	FMutSel
 
-========== EUARCHONTES ==========
+========== LAURASIATHERIA ==========
 ---Branch-site alternative---
 kappa	4.02220
 site_class	0	1	2a	2b
