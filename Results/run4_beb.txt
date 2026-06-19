@@ -1,4 +1,4 @@
----NANOG_EUARCHONTES---
+---NANOG_LAURASIATHERIA---
 Null lnL        -12141.374992
 Alternative lnL -12141.375036
 2delta_lnL      -0.00009
@@ -21,7 +21,7 @@ No beb to report
 
 -----------------------------------------------
 
----POU5F1_EUARCHONTES---
+---POU5F1_LAURASIATHERIA---
 Null lnL        -8834.451659
 Alternative lnL -8834.451659
 2delta_lnL      0.00000
@@ -44,7 +44,7 @@ No beb to report
 
 -----------------------------------------------
 
----IGF1_EUARCHONTES---
+---IGF1_LAURASIATHERIA---
 Null lnL        -3512.832074
 Alternative lnL -3512.832074
 2delta_lnL      0.00000
@@ -67,7 +67,7 @@ No beb to report
 
 -----------------------------------------------
 
----IGF2_EUARCHONTES---
+---IGF2_LAURASIATHERIA---
 Null lnL        -4979.928363
 Alternative lnL -4979.928363
 2delta_lnL      0.00000
@@ -90,7 +90,7 @@ No beb to report
 
 -----------------------------------------------
 
----IGF1R_EUARCHONTES---
+---IGF1R_LAURASIATHERIA---
 Null lnL        -34151.668073
 Alternative lnL -34151.668074
 2delta_lnL      -0.00000
@@ -113,7 +113,7 @@ No beb to report
 
 -----------------------------------------------
 
----IGF2R_EUARCHONTES---
+---IGF2R_LAURASIATHERIA---
 Null lnL        -99165.732629
 Alternative lnL -99165.732625
 2delta_lnL      0.00001
@@ -136,7 +136,7 @@ No beb to report
 
 -----------------------------------------------
 
----IGFBP2_EUARCHONTES---
+---IGFBP2_LAURASIATHERIA---
 Null lnL        -7129.523246
 Alternative lnL -7129.523205
 2delta_lnL      0.00008
@@ -159,7 +159,7 @@ No beb to report
 
 -----------------------------------------------
 
----IGFBP4_EUARCHONTES---
+---IGFBP4_LAURASIATHERIA---
 Null lnL        -4946.292389
 Alternative lnL -4946.292388
 2delta_lnL      0.00000
@@ -182,7 +182,7 @@ No beb to report
 
 -----------------------------------------------
 
----IGFBP5_EUARCHONTES---
+---IGFBP5_LAURASIATHERIA---
 Null lnL        -5390.890845
 Alternative lnL -5389.155145
 2delta_lnL      3.47140
@@ -253,7 +253,7 @@ site    AA      prob
 
 -----------------------------------------------
 
----PAPPA_EUARCHONTES---
+---PAPPA_LAURASIATHERIA---
 Null lnL        -37438.040214
 Alternative lnL -37437.879886
 2delta_lnL      0.32066
@@ -299,7 +299,7 @@ site    AA      prob
 
 -----------------------------------------------
 
----PAPPA2_EUARCHONTES---
+---PAPPA2_LAURASIATHERIA---
 Null lnL        -60700.436385
 Alternative lnL -60696.942421
 2delta_lnL      6.98793
@@ -332,7 +332,7 @@ No beb to report
 
 -----------------------------------------------
 
----STC1_EUARCHONTES---
+---STC1_LAURASIATHERIA---
 Null lnL        -4484.046008
 Alternative lnL -4484.046008
 2delta_lnL      0.00000
@@ -355,7 +355,7 @@ No beb to report
 
 -----------------------------------------------
 
----STC2_EUARCHONTES---
+---STC2_LAURASIATHERIA---
 Null lnL        -9940.060522
 Alternative lnL -9939.992019
 2delta_lnL      0.13701
